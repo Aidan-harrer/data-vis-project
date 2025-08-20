@@ -1,0 +1,851 @@
+time,latitude,longitude,depth,mag,place,type,id,region
+2025-02-16T12:37:55,35.071,34.312,39.47,3.7,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00460,Türkiye
+2025-02-16T14:54:47,-37.551,176.202,155.63,4.5,"NW of Napier, New Zealand",earthquake,syn_00651,New Zealand
+2025-02-16T19:48:15,38.585,30.303,35.23,3.2,"NW of Hatay, Türkiye",quarry blast,syn_00026,Türkiye
+2025-02-17T08:19:41,35.081,-119.032,8.65,6.2,"NW of Bakersfield, California",induced event,syn_00034,California
+2025-02-17T08:56:21,38.417,23.158,61.15,3.5,"in the Heraklion, Greece",earthquake,syn_00422,Greece
+2025-02-17T13:57:25,-36.082,167.657,4.9,4.5,"near Napier, New Zealand",induced event,syn_00650,New Zealand
+2025-02-17T16:07:34,-45.467,-70.903,71.86,3.4,"in the Concepción, Chile",earthquake,syn_00841,Chile
+2025-02-17T20:39:35,-44.323,-66.496,29.04,4.1,"126 km NE of Iquique, Chile",earthquake,syn_00076,Chile
+2025-02-18T17:53:19,-40.207,169.894,47.47,4.2,"NW of Gisborne, New Zealand",earthquake,syn_00406,New Zealand
+2025-02-18T18:33:28,32.674,-115.853,44.44,4.7,"248 km NE of Los Angeles, California",earthquake,syn_00718,California
+2025-02-18T20:08:20,35.303,20.869,0.6,5.9,"79 km NE of Kavala, Greece",earthquake,syn_00475,Greece
+2025-02-19T06:17:34,-32.084,-67.646,24.09,3.7,"NW of Antofagasta, Chile",earthquake,syn_00446,Chile
+2025-02-19T10:11:06,54.45,-157.447,8.29,4.6,"near Anchorage, Alaska",earthquake,syn_00529,Alaska
+2025-02-19T10:14:23,58.371,-163.479,46.28,5.0,"SE of Fairbanks, Alaska",earthquake,syn_00469,Alaska
+2025-02-19T11:06:29,34.356,-121.587,15.28,3.3,"SE of Bakersfield, California",earthquake,syn_00823,California
+2025-02-19T11:56:26,37.213,27.378,3.85,4.8,"offshore Kalamata, Greece",earthquake,syn_00172,Greece
+2025-02-19T14:12:55,70.398,-160.614,15.29,3.9,"near Anchorage, Alaska",induced event,syn_00259,Alaska
+2025-02-19T16:26:48,4.733,135.015,15.27,6.5,"SE of Banda Aceh, Indonesia",earthquake,syn_00128,Indonesia
+2025-02-20T08:13:53,41.616,-120.107,20.14,3.5,"229 km SW of Eureka, California",quarry blast,syn_00781,California
+2025-02-20T09:34:29,1.041,109.541,8.26,4.3,"near Banda Aceh, Indonesia",earthquake,syn_00774,Indonesia
+2025-02-20T09:55:25,37.394,134.613,10.62,4.1,"219 km NE of Kushiro, Japan",earthquake,syn_00758,Japan
+2025-02-20T11:23:14,-19.678,-67.694,6.0,4.4,"5 km SW of Antofagasta, Chile",earthquake,syn_00112,Chile
+2025-02-20T12:31:59,39.204,38.636,21.95,2.5,"134 km NE of İzmir, Türkiye",earthquake,syn_00150,Türkiye
+2025-02-20T14:26:35,40.469,22.179,30.2,1.9,"offshore Patras, Greece",earthquake,syn_00820,Greece
+2025-02-20T14:28:30,56.1,-133.586,1.38,3.9,"53 km NE of Anchorage, Alaska",earthquake,syn_00169,Alaska
+2025-02-20T20:54:48,-29.139,-74.339,39.15,4.3,"offshore Iquique, Chile",quarry blast,syn_00696,Chile
+2025-02-20T21:00:40,55.376,-150.07,12.03,5.2,"NW of Fairbanks, Alaska",earthquake,syn_00103,Alaska
+2025-02-20T21:01:20,38.831,135.381,10.1,3.1,"194 km NE of Kushiro, Japan",earthquake,syn_00395,Japan
+2025-02-21T14:31:13,36.434,138.195,5.65,5.2,"102 km NE of Kushiro, Japan",earthquake,syn_00512,Japan
+2025-02-21T17:12:28,41.161,38.367,22.84,4.2,"NW of Hatay, Türkiye",earthquake,syn_00255,Türkiye
+2025-02-21T18:13:39,35.923,-120.077,1.98,3.5,"SE of San Jose, California",earthquake,syn_00844,California
+2025-02-21T20:34:39,15.37,-90.613,20.5,5.8,"in the Puerto Vallarta, Mexico",earthquake,syn_00179,Mexico
+2025-02-21T23:26:49,38.31,24.242,56.53,4.7,"near Kavala, Greece",earthquake,syn_00301,Greece
+2025-02-22T14:47:30,-1.902,137.873,11.6,5.7,"near Padang, Indonesia",earthquake,syn_00109,Indonesia
+2025-02-22T22:05:04,35.471,-118.98,144.01,3.5,"offshore Los Angeles, California",earthquake,syn_00563,California
+2025-02-22T22:43:18,-45.944,178.904,5.1,3.6,"in the Gisborne, New Zealand",induced event,syn_00637,New Zealand
+2025-02-23T03:47:47,36.271,22.054,155.86,1.6,"NW of Kalamata, Greece",earthquake,syn_00032,Greece
+2025-02-23T10:13:13,-35.917,178.194,2.21,4.0,"SE of Wellington, New Zealand",earthquake,syn_00556,New Zealand
+2025-02-23T14:46:43,15.177,-101.885,1.03,3.4,"86 km NE of Oaxaca, Mexico",quarry blast,syn_00319,Mexico
+2025-02-23T15:35:02,36.813,-124.789,4.42,5.0,"near Los Angeles, California",earthquake,syn_00276,California
+2025-02-23T19:52:17,39.873,32.888,18.99,3.8,"offshore Malatya, Türkiye",earthquake,syn_00772,Türkiye
+2025-02-24T02:09:16,23.581,-98.991,15.32,4.4,"in the Oaxaca, Mexico",earthquake,syn_00242,Mexico
+2025-02-24T05:45:43,34.298,142.645,108.79,4.4,"NW of Miyako, Japan",earthquake,syn_00554,Japan
+2025-02-24T07:50:07,3.159,134.448,11.52,4.1,"NW of Jayapura, Indonesia",earthquake,syn_00378,Indonesia
+2025-02-24T18:56:41,-29.994,-75.919,20.82,4.4,"NW of Iquique, Chile",earthquake,syn_00616,Chile
+2025-02-25T04:05:30,-36.814,175.096,28.79,4.1,"offshore Bluff, New Zealand",earthquake,syn_00599,New Zealand
+2025-02-25T06:44:09,41.94,22.863,56.37,2.5,"SE of Heraklion, Greece",quarry blast,syn_00450,Greece
+2025-02-25T09:52:48,56.619,-158.606,1.13,4.1,"near Kodiak, Alaska",earthquake,syn_00021,Alaska
+2025-02-25T13:23:02,65.458,-167.339,28.74,4.3,"SE of Anchorage, Alaska",earthquake,syn_00552,Alaska
+2025-02-25T20:26:01,-9.281,100.812,84.61,5.6,"223 km SW of Banda Aceh, Indonesia",earthquake,syn_00564,Indonesia
+2025-02-26T02:18:48,-24.743,-68.46,1.1,5.5,"offshore Iquique, Chile",quarry blast,syn_00423,Chile
+2025-02-27T02:50:52,55.949,-136.292,66.73,5.1,"in the Kodiak, Alaska",quarry blast,syn_00416,Alaska
+2025-02-27T07:53:56,18.928,-88.222,0.38,4.2,"231 km NE of Acapulco, Mexico",earthquake,syn_00292,Mexico
+2025-02-27T07:55:35,37.501,140.473,8.2,4.6,"NW of Hachinohe, Japan",earthquake,syn_00723,Japan
+2025-02-27T12:41:47,-30.259,-66.85,56.92,3.4,"166 km NE of Iquique, Chile",earthquake,syn_00011,Chile
+2025-02-28T00:44:18,-51.531,-72.807,17.85,5.9,"near Valparaíso, Chile",earthquake,syn_00064,Chile
+2025-02-28T02:28:36,-8.112,97.077,17.28,4.4,"6 km NE of Padang, Indonesia",earthquake,syn_00807,Indonesia
+2025-02-28T02:36:01,35.148,141.396,35.38,5.1,"in the Kushiro, Japan",earthquake,syn_00376,Japan
+2025-03-01T05:04:12,-21.915,-68.074,29.61,3.9,"SE of Antofagasta, Chile",earthquake,syn_00573,Chile
+2025-03-01T10:49:49,20.958,-101.15,60.2,6.6,"223 km NE of Acapulco, Mexico",earthquake,syn_00396,Mexico
+2025-03-01T17:43:50,15.978,-89.606,12.6,4.7,"SE of Colima, Mexico",earthquake,syn_00773,Mexico
+2025-03-02T11:41:01,38.164,28.946,6.76,2.9,"near Heraklion, Greece",earthquake,syn_00693,Greece
+2025-03-02T21:16:28,67.395,-154.611,17.18,3.4,"SE of Fairbanks, Alaska",earthquake,syn_00717,Alaska
+2025-03-03T03:28:27,25.099,-97.999,88.32,4.5,"near Colima, Mexico",earthquake,syn_00206,Mexico
+2025-03-03T09:38:48,-46.303,175.327,14.51,5.3,"offshore Bluff, New Zealand",earthquake,syn_00736,New Zealand
+2025-03-03T14:53:10,3.661,106.131,17.23,2.8,"offshore Ambon, Indonesia",earthquake,syn_00442,Indonesia
+2025-03-03T20:21:17,36.965,29.933,0.23,4.0,"offshore Kahramanmaraş, Türkiye",earthquake,syn_00364,Türkiye
+2025-03-03T22:06:47,35.258,22.098,10.28,5.4,"near Patras, Greece",earthquake,syn_00473,Greece
+2025-03-04T00:33:30,34.42,23.502,8.82,4.0,"in the Patras, Greece",earthquake,syn_00837,Greece
+2025-03-04T09:34:02,33.702,141.595,11.41,3.3,"near Hachinohe, Japan",earthquake,syn_00415,Japan
+2025-03-04T12:26:37,69.893,-155.011,16.66,3.6,"offshore Fairbanks, Alaska",earthquake,syn_00628,Alaska
+2025-03-05T07:02:19,38.15,32.412,1.58,4.8,"SE of Kahramanmaraş, Türkiye",earthquake,syn_00630,Türkiye
+2025-03-05T20:50:12,38.748,-117.547,5.49,4.7,"offshore Bakersfield, California",earthquake,syn_00546,California
+2025-03-05T21:15:29,41.511,21.949,35.05,5.7,"246 km SW of Kavala, Greece",earthquake,syn_00832,Greece
+2025-03-05T22:21:57,-1.24,107.622,69.56,3.9,"in the Padang, Indonesia",earthquake,syn_00617,Indonesia
+2025-03-05T23:43:25,-38.297,178.924,39.35,4.8,"in the Gisborne, New Zealand",earthquake,syn_00256,New Zealand
+2025-03-06T02:38:38,54.867,-130.493,86.5,5.2,"in the Fairbanks, Alaska",earthquake,syn_00159,Alaska
+2025-03-06T03:35:46,35.722,145.695,3.71,4.8,"132 km NE of Hachinohe, Japan",earthquake,syn_00478,Japan
+2025-03-06T06:19:29,-49.928,-75.194,39.05,4.6,"167 km NE of Concepción, Chile",earthquake,syn_00315,Chile
+2025-03-06T09:27:08,34.609,-124.832,23.26,4.2,"8 km NE of San Jose, California",earthquake,syn_00054,California
+2025-03-06T18:42:52,41.301,-123.836,64.02,3.4,"SE of Bakersfield, California",earthquake,syn_00182,California
+2025-03-06T20:40:18,57.603,-169.721,15.5,4.2,"offshore Anchorage, Alaska",earthquake,syn_00755,Alaska
+2025-03-07T02:15:29,-30.013,-72.891,28.63,4.9,"offshore Antofagasta, Chile",earthquake,syn_00300,Chile
+2025-03-07T07:59:17,-36.794,173.785,6.74,4.3,"in the Napier, New Zealand",earthquake,syn_00499,New Zealand
+2025-03-07T08:57:59,32.417,-124.067,2.22,3.9,"offshore Los Angeles, California",ice quake,syn_00284,California
+2025-03-07T15:46:53,-41.518,166.519,25.38,6.2,"offshore Napier, New Zealand",earthquake,syn_00808,New Zealand
+2025-03-07T16:07:40,53.08,-153.367,23.86,4.6,"in the Fairbanks, Alaska",earthquake,syn_00705,Alaska
+2025-03-07T22:25:20,22.436,-104.141,60.01,4.1,"SE of Acapulco, Mexico",induced event,syn_00082,Mexico
+2025-03-07T23:50:08,30.232,-102.694,67.65,5.5,"83 km NE of Oaxaca, Mexico",earthquake,syn_00282,Mexico
+2025-03-08T00:58:50,-1.755,99.709,41.8,4.4,"112 km SW of Ambon, Indonesia",ice quake,syn_00813,Indonesia
+2025-03-08T06:36:37,-6.442,118.884,1.78,2.9,"in the Banda Aceh, Indonesia",earthquake,syn_00510,Indonesia
+2025-03-08T11:46:43,17.482,-97.113,67.81,4.7,"77 km SW of Puerto Vallarta, Mexico",earthquake,syn_00634,Mexico
+2025-03-08T13:16:07,40.35,25.466,70.9,3.8,"NW of Patras, Greece",earthquake,syn_00246,Greece
+2025-03-08T15:33:26,57.179,-136.414,4.66,2.9,"NW of Kodiak, Alaska",quarry blast,syn_00453,Alaska
+2025-03-09T01:47:24,-36.439,167.071,23.68,3.9,"near Napier, New Zealand",earthquake,syn_00730,New Zealand
+2025-03-09T04:38:14,-40.658,167.427,55.81,2.4,"121 km NE of Napier, New Zealand",earthquake,syn_00278,New Zealand
+2025-03-09T12:33:02,3.979,140.268,43.87,3.6,"107 km NE of Padang, Indonesia",earthquake,syn_00167,Indonesia
+2025-03-09T23:25:39,2.846,95.213,12.17,4.7,"29 km SW of Padang, Indonesia",earthquake,syn_00129,Indonesia
+2025-03-09T23:30:54,37.718,-119.308,17.11,2.6,"offshore San Jose, California",earthquake,syn_00358,California
+2025-03-10T03:16:24,53.706,-144.297,42.73,6.2,"offshore Anchorage, Alaska",earthquake,syn_00237,Alaska
+2025-03-10T12:47:10,36.049,132.75,16.26,5.3,"SE of Sendai, Japan",earthquake,syn_00211,Japan
+2025-03-10T13:38:22,38.854,-124.725,5.64,3.7,"near Eureka, California",earthquake,syn_00549,California
+2025-03-10T16:59:37,39.193,22.284,29.84,4.9,"near Heraklion, Greece",earthquake,syn_00235,Greece
+2025-03-10T23:08:37,66.68,-140.263,28.4,4.7,"offshore Fairbanks, Alaska",earthquake,syn_00297,Alaska
+2025-03-11T03:20:54,1.49,138.954,0.55,4.4,"near Ambon, Indonesia",earthquake,syn_00239,Indonesia
+2025-03-11T15:29:59,35.331,26.71,1.79,4.0,"NW of Patras, Greece",earthquake,syn_00188,Greece
+2025-03-11T18:23:33,40.636,28.6,38.7,2.8,"offshore Malatya, Türkiye",earthquake,syn_00802,Türkiye
+2025-03-12T04:36:52,38.894,131.78,8.96,4.5,"near Miyako, Japan",earthquake,syn_00218,Japan
+2025-03-12T10:03:38,59.315,-154.205,46.84,4.8,"9 km SW of Kodiak, Alaska",quarry blast,syn_00010,Alaska
+2025-03-12T11:26:32,4.258,119.274,22.21,4.6,"offshore Jayapura, Indonesia",earthquake,syn_00074,Indonesia
+2025-03-12T11:33:46,30.375,136.634,28.12,3.7,"in the Kushiro, Japan",earthquake,syn_00580,Japan
+2025-03-13T00:18:08,38.154,42.767,3.35,5.3,"SE of Hatay, Türkiye",earthquake,syn_00283,Türkiye
+2025-03-13T01:27:31,-36.675,167.209,26.62,3.5,"225 km NE of Bluff, New Zealand",earthquake,syn_00305,New Zealand
+2025-03-13T06:05:06,19.409,-106.899,47.18,3.9,"169 km NE of Colima, Mexico",earthquake,syn_00391,Mexico
+2025-03-13T21:40:57,-45.615,-66.937,42.74,3.4,"221 km SW of Valparaíso, Chile",earthquake,syn_00318,Chile
+2025-03-14T06:23:29,36.626,145.732,9.94,5.6,"offshore Kushiro, Japan",earthquake,syn_00562,Japan
+2025-03-14T11:05:19,-25.572,-72.144,21.2,3.8,"offshore Valparaíso, Chile",earthquake,syn_00801,Chile
+2025-03-14T21:08:43,31.199,142.204,3.9,4.5,"145 km SW of Hachinohe, Japan",quarry blast,syn_00269,Japan
+2025-03-15T06:57:01,-20.929,-70.24,38.5,4.2,"189 km NE of Concepción, Chile",earthquake,syn_00106,Chile
+2025-03-15T08:20:54,-4.917,139.559,9.13,3.7,"offshore Banda Aceh, Indonesia",earthquake,syn_00613,Indonesia
+2025-03-15T12:32:15,39.213,22.685,59.93,4.0,"in the Patras, Greece",ice quake,syn_00195,Greece
+2025-03-15T14:54:48,-38.257,175.781,47.05,5.2,"43 km SW of Napier, New Zealand",earthquake,syn_00065,New Zealand
+2025-03-15T15:08:32,39.194,26.46,14.09,4.6,"157 km SW of Heraklion, Greece",earthquake,syn_00072,Greece
+2025-03-15T15:43:03,40.425,143.622,45.4,3.6,"offshore Sendai, Japan",earthquake,syn_00201,Japan
+2025-03-15T16:41:59,-43.847,-66.682,28.8,3.5,"25 km SW of Iquique, Chile",earthquake,syn_00366,Chile
+2025-03-15T17:44:00,28.551,-98.039,11.9,3.3,"166 km SW of Puerto Vallarta, Mexico",earthquake,syn_00716,Mexico
+2025-03-16T06:58:11,39.267,-116.487,13.04,5.1,"SE of Eureka, California",earthquake,syn_00457,California
+2025-03-17T02:31:59,37.602,28.576,6.27,5.2,"in the Kalamata, Greece",induced event,syn_00488,Greece
+2025-03-17T09:09:28,29.11,-86.564,29.13,3.6,"128 km SW of Colima, Mexico",earthquake,syn_00351,Mexico
+2025-03-17T18:05:25,64.184,-160.807,32.51,2.3,"SE of Fairbanks, Alaska",earthquake,syn_00568,Alaska
+2025-03-17T18:53:39,44.707,139.337,2.86,4.9,"offshore Kushiro, Japan",earthquake,syn_00088,Japan
+2025-03-19T00:55:19,-34.882,173.347,35.79,6.6,"41 km NE of Gisborne, New Zealand",earthquake,syn_00125,New Zealand
+2025-03-19T10:30:07,-38.569,169.476,36.79,4.9,"in the Gisborne, New Zealand",earthquake,syn_00484,New Zealand
+2025-03-19T11:21:09,-46.965,167.517,19.23,4.4,"167 km NE of Gisborne, New Zealand",earthquake,syn_00111,New Zealand
+2025-03-19T18:41:23,-53.235,-69.925,3.08,3.7,"96 km SW of Concepción, Chile",earthquake,syn_00004,Chile
+2025-03-19T20:38:10,-42.936,171.339,10.85,4.7,"201 km SW of Gisborne, New Zealand",earthquake,syn_00724,New Zealand
+2025-03-20T02:10:05,14.316,-107.907,12.84,4.3,"NW of Puerto Vallarta, Mexico",earthquake,syn_00430,Mexico
+2025-03-20T04:40:52,-45.545,-71.921,39.06,3.6,"in the Valparaíso, Chile",earthquake,syn_00800,Chile
+2025-03-20T06:28:27,70.441,-156.324,163.0,2.9,"NW of Kodiak, Alaska",earthquake,syn_00544,Alaska
+2025-03-20T11:06:42,26.137,-100.493,38.34,2.0,"near Oaxaca, Mexico",earthquake,syn_00265,Mexico
+2025-03-20T22:03:00,35.417,24.074,33.94,3.8,"SE of Kavala, Greece",earthquake,syn_00389,Greece
+2025-03-21T00:49:50,40.188,20.309,105.02,4.1,"NW of Patras, Greece",earthquake,syn_00219,Greece
+2025-03-21T07:21:08,36.03,31.662,2.82,3.7,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00775,Türkiye
+2025-03-21T07:28:37,39.022,36.765,15.18,4.2,"offshore İzmir, Türkiye",earthquake,syn_00264,Türkiye
+2025-03-21T10:01:36,36.382,-115.085,60.95,3.9,"SE of Eureka, California",earthquake,syn_00234,California
+2025-03-21T21:05:09,-34.071,172.109,9.84,2.8,"offshore Wellington, New Zealand",earthquake,syn_00037,New Zealand
+2025-03-21T22:18:51,-46.115,-75.763,60.84,3.9,"in the Concepción, Chile",earthquake,syn_00624,Chile
+2025-03-21T23:05:17,38.723,42.599,162.57,3.9,"in the Hatay, Türkiye",earthquake,syn_00659,Türkiye
+2025-03-22T00:09:59,51.413,-146.721,9.4,3.5,"SE of Kodiak, Alaska",earthquake,syn_00199,Alaska
+2025-03-22T03:14:41,-52.536,-70.2,27.75,5.9,"near Antofagasta, Chile",earthquake,syn_00306,Chile
+2025-03-22T15:27:00,43.045,130.498,44.99,5.6,"offshore Hachinohe, Japan",earthquake,syn_00793,Japan
+2025-03-22T16:17:24,3.783,101.316,91.34,6.2,"offshore Ambon, Indonesia",earthquake,syn_00733,Indonesia
+2025-03-22T20:36:26,30.186,136.969,10.75,3.6,"near Kushiro, Japan",earthquake,syn_00353,Japan
+2025-03-22T22:27:19,36.163,138.53,85.76,4.4,"SE of Hachinohe, Japan",earthquake,syn_00597,Japan
+2025-03-22T23:05:45,31.921,-116.675,67.63,2.8,"in the Puerto Vallarta, Mexico",earthquake,syn_00683,Mexico
+2025-03-23T02:35:49,58.453,-168.44,5.23,4.1,"SE of Anchorage, Alaska",earthquake,syn_00384,Alaska
+2025-03-23T05:55:15,-36.199,177.24,47.62,3.8,"SE of Bluff, New Zealand",earthquake,syn_00230,New Zealand
+2025-03-23T06:32:49,40.126,26.064,57.48,2.5,"194 km SW of Malatya, Türkiye",earthquake,syn_00168,Türkiye
+2025-03-23T08:09:40,35.795,21.261,51.0,4.3,"in the Heraklion, Greece",earthquake,syn_00629,Greece
+2025-03-23T22:45:58,41.913,-123.588,25.91,4.5,"113 km NE of San Jose, California",earthquake,syn_00252,California
+2025-03-23T23:29:51,35.673,19.5,55.67,5.6,"offshore Heraklion, Greece",earthquake,syn_00441,Greece
+2025-03-24T00:52:14,37.375,-124.844,8.94,4.4,"NW of Los Angeles, California",earthquake,syn_00847,California
+2025-03-24T04:37:02,39.731,38.505,2.18,3.6,"near İzmir, Türkiye",earthquake,syn_00611,Türkiye
+2025-03-24T09:57:23,32.146,-121.036,27.85,3.5,"195 km NE of Eureka, California",earthquake,syn_00719,California
+2025-03-24T10:50:09,5.273,137.252,15.58,4.1,"168 km SW of Ambon, Indonesia",earthquake,syn_00824,Indonesia
+2025-03-24T20:55:14,37.95,-121.268,25.28,2.2,"101 km SW of Los Angeles, California",earthquake,syn_00139,California
+2025-03-25T11:52:16,38.817,132.136,0.8,2.9,"98 km SW of Kushiro, Japan",earthquake,syn_00312,Japan
+2025-03-25T13:46:57,50.267,-160.352,111.73,3.5,"233 km SW of Anchorage, Alaska",ice quake,syn_00277,Alaska
+2025-03-25T16:33:35,23.409,-103.746,11.32,4.3,"in the Acapulco, Mexico",quarry blast,syn_00014,Mexico
+2025-03-26T00:18:41,-43.737,177.058,3.66,5.1,"32 km SW of Bluff, New Zealand",earthquake,syn_00324,New Zealand
+2025-03-26T05:03:14,41.877,-121.417,48.54,5.6,"SE of San Jose, California",earthquake,syn_00682,California
+2025-03-26T08:39:04,-40.977,166.59,14.92,4.5,"SE of Wellington, New Zealand",earthquake,syn_00458,New Zealand
+2025-03-26T10:32:07,-45.017,173.492,40.0,3.0,"45 km SW of Bluff, New Zealand",quarry blast,syn_00126,New Zealand
+2025-03-26T18:54:38,4.989,128.698,7.26,5.1,"in the Ambon, Indonesia",earthquake,syn_00153,Indonesia
+2025-03-26T19:33:17,-45.772,174.879,55.91,4.0,"166 km SW of Gisborne, New Zealand",earthquake,syn_00058,New Zealand
+2025-03-27T00:47:35,41.801,32.296,19.74,2.2,"NW of İzmir, Türkiye",earthquake,syn_00363,Türkiye
+2025-03-27T19:09:10,28.413,-86.653,8.79,5.3,"near Colima, Mexico",earthquake,syn_00138,Mexico
+2025-03-27T19:47:46,-23.728,-73.902,14.29,4.5,"SE of Iquique, Chile",earthquake,syn_00339,Chile
+2025-03-28T03:09:26,41.77,139.869,49.05,4.3,"170 km SW of Miyako, Japan",earthquake,syn_00087,Japan
+2025-03-28T10:44:39,37.813,145.34,23.28,4.6,"SE of Hachinohe, Japan",ice quake,syn_00008,Japan
+2025-03-28T12:57:26,62.517,-139.513,17.06,3.7,"offshore Fairbanks, Alaska",earthquake,syn_00782,Alaska
+2025-03-28T13:05:57,34.244,19.373,51.88,3.7,"239 km SW of Kalamata, Greece",earthquake,syn_00045,Greece
+2025-03-28T23:50:15,-7.629,126.259,38.1,3.9,"183 km NE of Padang, Indonesia",earthquake,syn_00452,Indonesia
+2025-03-29T11:45:02,-38.387,170.052,6.13,6.7,"150 km SW of Bluff, New Zealand",earthquake,syn_00006,New Zealand
+2025-03-29T13:21:51,-34.299,168.43,17.68,4.3,"62 km SW of Wellington, New Zealand",earthquake,syn_00821,New Zealand
+2025-03-29T20:52:36,-38.583,177.674,1.86,4.3,"145 km NE of Napier, New Zealand",earthquake,syn_00240,New Zealand
+2025-03-30T05:09:31,38.751,27.837,12.81,5.6,"140 km SW of Kahramanmaraş, Türkiye",earthquake,syn_00258,Türkiye
+2025-03-30T12:50:49,39.304,25.791,80.53,3.1,"NW of Patras, Greece",earthquake,syn_00721,Greece
+2025-03-30T18:42:56,2.952,130.266,4.98,4.0,"offshore Ambon, Indonesia",earthquake,syn_00248,Indonesia
+2025-03-30T22:10:54,34.293,21.524,21.5,4.7,"241 km NE of Patras, Greece",earthquake,syn_00098,Greece
+2025-03-30T22:47:59,-46.002,170.611,24.0,4.0,"near Gisborne, New Zealand",earthquake,syn_00609,New Zealand
+2025-03-30T22:59:44,41.837,-122.369,35.35,3.6,"SE of Eureka, California",earthquake,syn_00272,California
+2025-03-31T04:53:59,62.261,-135.575,22.98,3.6,"NW of Kodiak, Alaska",earthquake,syn_00133,Alaska
+2025-03-31T13:50:56,39.74,37.51,132.78,3.1,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00382,Türkiye
+2025-04-01T02:09:55,-8.396,95.763,32.52,3.8,"near Jayapura, Indonesia",earthquake,syn_00623,Indonesia
+2025-04-01T05:01:52,38.825,44.374,1.59,4.6,"offshore İzmir, Türkiye",earthquake,syn_00471,Türkiye
+2025-04-01T11:32:19,-29.156,-71.918,0.47,4.5,"SE of Antofagasta, Chile",earthquake,syn_00487,Chile
+2025-04-01T11:52:08,-34.097,169.129,7.63,4.2,"197 km NE of Wellington, New Zealand",earthquake,syn_00702,New Zealand
+2025-04-01T18:18:20,37.834,142.09,2.68,4.7,"NW of Kushiro, Japan",earthquake,syn_00046,Japan
+2025-04-01T21:10:09,-37.8,166.809,4.33,3.4,"NW of Napier, New Zealand",earthquake,syn_00438,New Zealand
+2025-04-01T22:05:43,-43.884,-72.678,31.79,5.3,"in the Valparaíso, Chile",earthquake,syn_00584,Chile
+2025-04-01T22:56:15,41.563,-120.857,12.43,3.6,"115 km SW of Bakersfield, California",earthquake,syn_00729,California
+2025-04-01T23:36:53,19.244,-104.061,14.19,3.5,"207 km SW of Colima, Mexico",quarry blast,syn_00757,Mexico
+2025-04-02T10:02:32,-45.459,-69.496,7.16,4.2,"216 km NE of Antofagasta, Chile",earthquake,syn_00645,Chile
+2025-04-02T12:25:47,34.711,133.323,51.32,3.8,"NW of Hachinohe, Japan",earthquake,syn_00341,Japan
+2025-04-03T07:19:00,38.726,142.028,15.65,3.7,"SE of Miyako, Japan",earthquake,syn_00815,Japan
+2025-04-03T13:58:53,44.349,130.172,1.76,3.2,"in the Miyako, Japan",earthquake,syn_00317,Japan
+2025-04-03T17:04:11,-29.268,-70.266,51.55,4.4,"SE of Concepción, Chile",earthquake,syn_00056,Chile
+2025-04-03T18:21:19,-45.601,-71.495,33.41,3.0,"SE of Concepción, Chile",earthquake,syn_00084,Chile
+2025-04-03T21:32:19,40.609,133.287,6.92,3.3,"SE of Hachinohe, Japan",earthquake,syn_00788,Japan
+2025-04-04T13:24:30,35.387,43.905,2.33,3.5,"233 km NE of Malatya, Türkiye",earthquake,syn_00557,Türkiye
+2025-04-04T13:30:04,41.897,29.154,29.87,3.8,"offshore Hatay, Türkiye",earthquake,syn_00558,Türkiye
+2025-04-05T08:41:05,37.144,31.037,2.92,3.3,"NW of Erzurum, Türkiye",earthquake,syn_00796,Türkiye
+2025-04-05T11:34:51,33.742,-114.431,29.73,5.2,"112 km SW of Los Angeles, California",earthquake,syn_00212,California
+2025-04-05T16:02:35,38.194,33.012,3.87,3.6,"SE of Malatya, Türkiye",earthquake,syn_00371,Türkiye
+2025-04-05T19:34:50,41.031,-114.731,0.17,4.7,"167 km SW of San Jose, California",earthquake,syn_00538,California
+2025-04-05T19:45:46,-27.839,-75.315,28.46,3.3,"offshore Concepción, Chile",earthquake,syn_00608,Chile
+2025-04-05T20:17:22,33.133,-123.109,1.98,3.1,"33 km SW of Eureka, California",earthquake,syn_00812,California
+2025-04-05T22:28:07,27.785,-116.832,11.74,4.8,"SE of Oaxaca, Mexico",earthquake,syn_00644,Mexico
+2025-04-06T02:09:21,35.988,33.721,11.75,4.3,"SE of Erzurum, Türkiye",earthquake,syn_00141,Türkiye
+2025-04-06T03:24:31,36.839,-123.644,5.29,4.6,"98 km NE of Los Angeles, California",earthquake,syn_00776,California
+2025-04-06T13:00:28,36.583,-121.137,76.05,4.2,"near Los Angeles, California",earthquake,syn_00574,California
+2025-04-06T13:04:10,-37.56,-68.673,28.0,3.6,"offshore Valparaíso, Chile",earthquake,syn_00493,Chile
+2025-04-06T20:01:05,25.123,-106.403,12.99,4.5,"near Puerto Vallarta, Mexico",earthquake,syn_00684,Mexico
+2025-04-07T17:26:34,16.13,-104.293,54.94,4.7,"NW of Puerto Vallarta, Mexico",earthquake,syn_00311,Mexico
+2025-04-07T21:10:08,21.56,-99.071,60.39,4.6,"in the Puerto Vallarta, Mexico",earthquake,syn_00704,Mexico
+2025-04-08T02:14:33,38.881,-120.186,8.82,4.4,"near Bakersfield, California",earthquake,syn_00281,California
+2025-04-08T04:34:48,38.193,-120.002,16.92,4.0,"SE of Bakersfield, California",earthquake,syn_00620,California
+2025-04-08T10:41:50,22.05,-91.276,32.66,3.3,"NW of Colima, Mexico",earthquake,syn_00764,Mexico
+2025-04-08T14:08:55,21.41,-88.015,27.9,5.1,"in the Colima, Mexico",earthquake,syn_00476,Mexico
+2025-04-09T02:06:38,36.535,27.793,8.97,6.0,"NW of Kavala, Greece",earthquake,syn_00293,Greece
+2025-04-09T03:49:14,-24.238,-69.448,24.01,3.9,"offshore Concepción, Chile",earthquake,syn_00177,Chile
+2025-04-09T05:37:50,19.018,-110.468,94.71,5.2,"in the Puerto Vallarta, Mexico",induced event,syn_00401,Mexico
+2025-04-09T10:34:49,-51.013,-73.58,36.37,6.4,"NW of Iquique, Chile",earthquake,syn_00202,Chile
+2025-04-09T15:02:05,65.446,-156.746,42.35,3.3,"offshore Kodiak, Alaska",earthquake,syn_00670,Alaska
+2025-04-10T04:21:17,35.894,30.75,26.06,5.5,"offshore Kahramanmaraş, Türkiye",earthquake,syn_00061,Türkiye
+2025-04-10T11:33:12,1.575,119.64,54.26,5.1,"in the Jayapura, Indonesia",earthquake,syn_00517,Indonesia
+2025-04-10T11:37:36,37.644,41.895,26.56,3.9,"82 km SW of Erzurum, Türkiye",earthquake,syn_00135,Türkiye
+2025-04-10T13:44:16,40.848,-122.455,15.54,2.9,"SE of Los Angeles, California",earthquake,syn_00809,California
+2025-04-10T14:10:32,40.072,20.025,21.64,6.3,"offshore Kalamata, Greece",earthquake,syn_00465,Greece
+2025-04-10T14:57:58,35.014,-116.776,68.95,2.8,"NW of Bakersfield, California",earthquake,syn_00116,California
+2025-04-10T23:29:14,56.689,-157.276,97.45,5.1,"191 km NE of Kodiak, Alaska",earthquake,syn_00539,Alaska
+2025-04-11T02:13:04,38.172,20.246,43.56,4.3,"13 km SW of Kavala, Greece",earthquake,syn_00838,Greece
+2025-04-11T03:38:34,-3.062,97.008,23.46,3.0,"135 km SW of Banda Aceh, Indonesia",earthquake,syn_00210,Indonesia
+2025-04-11T15:07:38,39.295,43.061,49.81,3.7,"offshore Malatya, Türkiye",earthquake,syn_00667,Türkiye
+2025-04-12T00:43:39,56.058,-157.747,46.67,4.6,"112 km NE of Kodiak, Alaska",earthquake,syn_00377,Alaska
+2025-04-12T13:10:12,-0.371,121.76,4.07,2.7,"192 km SW of Jayapura, Indonesia",earthquake,syn_00676,Indonesia
+2025-04-13T01:10:11,44.296,134.623,117.86,6.1,"SE of Sendai, Japan",earthquake,syn_00038,Japan
+2025-04-13T02:01:50,51.729,-154.123,35.08,4.4,"230 km NE of Kodiak, Alaska",earthquake,syn_00204,Alaska
+2025-04-13T02:44:47,-46.503,-66.368,0.37,4.3,"NW of Iquique, Chile",earthquake,syn_00073,Chile
+2025-04-13T06:05:45,-36.014,171.136,33.6,4.1,"SE of Napier, New Zealand",earthquake,syn_00784,New Zealand
+2025-04-13T13:00:11,41.862,-117.32,50.43,2.5,"244 km SW of San Jose, California",earthquake,syn_00078,California
+2025-04-13T14:04:44,-34.297,-74.348,6.97,4.5,"NW of Concepción, Chile",earthquake,syn_00390,Chile
+2025-04-13T16:13:19,37.046,23.145,42.05,3.8,"191 km NE of Patras, Greece",earthquake,syn_00463,Greece
+2025-04-14T10:18:34,40.719,-118.653,23.31,5.2,"47 km SW of Los Angeles, California",earthquake,syn_00678,California
+2025-04-14T10:43:21,21.734,-89.945,48.68,3.9,"NW of Puerto Vallarta, Mexico",earthquake,syn_00314,Mexico
+2025-04-14T12:46:49,30.73,138.877,16.66,5.1,"SE of Kushiro, Japan",earthquake,syn_00525,Japan
+2025-04-14T14:04:27,39.141,19.786,40.48,4.3,"in the Kalamata, Greece",earthquake,syn_00551,Greece
+2025-04-14T18:05:04,-51.433,-66.904,33.19,4.2,"in the Iquique, Chile",earthquake,syn_00357,Chile
+2025-04-14T22:16:38,24.814,-88.985,135.8,4.9,"offshore Oaxaca, Mexico",earthquake,syn_00171,Mexico
+2025-04-15T05:39:55,32.515,-121.935,4.7,4.0,"NW of Bakersfield, California",induced event,syn_00022,California
+2025-04-15T12:41:01,36.577,32.942,2.76,5.3,"offshore Kahramanmaraş, Türkiye",earthquake,syn_00104,Türkiye
+2025-04-15T15:46:42,41.735,-114.342,41.55,5.9,"184 km NE of Eureka, California",earthquake,syn_00189,California
+2025-04-15T16:26:54,38.296,-124.402,41.43,5.0,"SE of San Jose, California",earthquake,syn_00413,California
+2025-04-15T22:49:48,14.969,-111.114,1.19,4.9,"NW of Oaxaca, Mexico",earthquake,syn_00751,Mexico
+2025-04-16T09:18:24,37.992,29.918,60.12,3.7,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00496,Türkiye
+2025-04-16T15:07:10,67.156,-165.271,0.1,1.3,"103 km SW of Kodiak, Alaska",earthquake,syn_00655,Alaska
+2025-04-16T15:40:48,-52.207,-74.302,52.96,2.3,"in the Concepción, Chile",earthquake,syn_00220,Chile
+2025-04-16T18:54:39,29.339,-99.891,15.5,5.1,"51 km SW of Puerto Vallarta, Mexico",earthquake,syn_00086,Mexico
+2025-04-16T20:08:00,35.815,139.756,32.93,4.7,"28 km SW of Sendai, Japan",earthquake,syn_00418,Japan
+2025-04-16T20:57:16,38.856,21.76,10.54,4.8,"near Kavala, Greece",earthquake,syn_00009,Greece
+2025-04-16T23:16:17,30.023,139.819,34.81,4.3,"in the Miyako, Japan",earthquake,syn_00370,Japan
+2025-04-17T00:29:33,-31.958,-74.608,68.56,4.3,"SE of Valparaíso, Chile",earthquake,syn_00267,Chile
+2025-04-17T03:27:47,37.577,-118.548,12.35,2.4,"near Eureka, California",earthquake,syn_00102,California
+2025-04-17T04:54:42,20.019,-104.768,22.65,3.5,"209 km SW of Colima, Mexico",earthquake,syn_00631,Mexico
+2025-04-17T07:18:27,41.172,41.468,10.24,3.6,"144 km SW of Malatya, Türkiye",earthquake,syn_00502,Türkiye
+2025-04-17T12:05:41,32.734,-117.705,16.46,2.8,"39 km SW of Los Angeles, California",earthquake,syn_00744,California
+2025-04-18T08:39:32,-45.476,170.384,6.93,4.6,"offshore Bluff, New Zealand",earthquake,syn_00514,New Zealand
+2025-04-18T13:18:51,-41.883,-66.825,10.3,5.2,"SE of Valparaíso, Chile",earthquake,syn_00437,Chile
+2025-04-18T17:21:29,41.316,23.34,38.56,3.8,"151 km NE of Kavala, Greece",earthquake,syn_00490,Greece
+2025-04-19T11:21:02,-0.882,130.073,51.65,3.9,"SE of Padang, Indonesia",earthquake,syn_00120,Indonesia
+2025-04-19T15:07:43,38.919,28.201,14.18,5.0,"92 km SW of Kahramanmaraş, Türkiye",earthquake,syn_00185,Türkiye
+2025-04-20T06:11:53,32.681,-122.6,82.18,3.0,"in the Bakersfield, California",earthquake,syn_00687,California
+2025-04-20T09:54:38,-42.575,172.638,21.39,4.9,"in the Napier, New Zealand",earthquake,syn_00578,New Zealand
+2025-04-20T20:02:08,4.074,136.724,143.15,5.7,"138 km SW of Jayapura, Indonesia",earthquake,syn_00707,Indonesia
+2025-04-20T21:19:08,41.515,-115.777,80.96,4.6,"offshore Eureka, California",earthquake,syn_00494,California
+2025-04-20T21:44:12,64.953,-167.733,1.06,4.0,"SE of Anchorage, Alaska",earthquake,syn_00633,Alaska
+2025-04-21T02:22:46,1.453,136.815,106.63,3.7,"41 km SW of Banda Aceh, Indonesia",earthquake,syn_00216,Indonesia
+2025-04-21T04:44:46,37.43,41.089,34.16,4.7,"46 km NE of Malatya, Türkiye",ice quake,syn_00846,Türkiye
+2025-04-21T22:05:25,37.852,20.173,16.88,4.5,"near Kalamata, Greece",earthquake,syn_00198,Greece
+2025-04-22T11:49:25,-36.24,175.618,4.54,3.9,"offshore Bluff, New Zealand",earthquake,syn_00794,New Zealand
+2025-04-22T14:41:29,35.803,20.958,4.55,4.4,"in the Kavala, Greece",earthquake,syn_00435,Greece
+2025-04-22T17:30:42,71.9,-135.772,53.4,3.5,"176 km SW of Anchorage, Alaska",earthquake,syn_00356,Alaska
+2025-04-22T18:13:55,66.581,-138.448,5.73,3.9,"246 km SW of Anchorage, Alaska",ice quake,syn_00187,Alaska
+2025-04-23T05:53:21,-0.369,105.297,51.74,5.7,"96 km NE of Banda Aceh, Indonesia",earthquake,syn_00093,Indonesia
+2025-04-23T15:58:39,63.129,-149.937,112.13,4.1,"SE of Kodiak, Alaska",earthquake,syn_00553,Alaska
+2025-04-23T16:28:23,35.429,32.881,38.53,4.0,"139 km NE of Malatya, Türkiye",earthquake,syn_00459,Türkiye
+2025-04-23T21:59:25,21.722,-93.723,69.85,3.8,"in the Puerto Vallarta, Mexico",earthquake,syn_00062,Mexico
+2025-04-23T22:26:22,37.783,24.354,5.9,3.2,"NW of Kavala, Greece",earthquake,syn_00249,Greece
+2025-04-24T03:23:58,36.598,30.685,19.85,5.5,"in the Hatay, Türkiye",earthquake,syn_00433,Türkiye
+2025-04-24T15:44:07,35.92,31.22,15.88,3.0,"193 km NE of İzmir, Türkiye",earthquake,syn_00368,Türkiye
+2025-04-25T08:03:34,39.685,35.192,27.03,2.6,"in the Kahramanmaraş, Türkiye",earthquake,syn_00708,Türkiye
+2025-04-25T08:32:30,66.049,-139.379,4.36,4.5,"near Fairbanks, Alaska",earthquake,syn_00316,Alaska
+2025-04-25T09:48:14,34.456,20.055,26.43,3.3,"in the Heraklion, Greece",earthquake,syn_00665,Greece
+2025-04-25T19:59:08,39.532,-122.037,23.27,5.6,"NW of Los Angeles, California",earthquake,syn_00295,California
+2025-04-25T20:22:20,-8.496,121.601,23.47,4.2,"154 km NE of Ambon, Indonesia",earthquake,syn_00044,Indonesia
+2025-04-25T21:54:35,-46.248,178.451,98.72,4.2,"NW of Gisborne, New Zealand",earthquake,syn_00434,New Zealand
+2025-04-25T22:03:52,34.908,28.969,15.9,4.5,"NW of Kalamata, Greece",earthquake,syn_00646,Greece
+2025-04-26T00:20:59,41.611,21.973,2.9,4.3,"in the Patras, Greece",earthquake,syn_00483,Greece
+2025-04-26T21:38:43,26.57,-104.749,44.5,5.1,"243 km NE of Acapulco, Mexico",earthquake,syn_00444,Mexico
+2025-04-26T22:04:44,36.298,27.798,7.48,4.0,"in the Kalamata, Greece",earthquake,syn_00722,Greece
+2025-04-27T00:30:50,-36.988,-71.559,2.77,4.2,"SE of Iquique, Chile",earthquake,syn_00386,Chile
+2025-04-27T01:04:25,30.786,-113.322,22.75,4.4,"near Colima, Mexico",earthquake,syn_00606,Mexico
+2025-04-27T03:41:06,-9.92,97.764,9.57,4.4,"71 km SW of Banda Aceh, Indonesia",earthquake,syn_00590,Indonesia
+2025-04-27T06:37:25,39.63,29.519,9.24,5.3,"SE of Malatya, Türkiye",earthquake,syn_00286,Türkiye
+2025-04-27T12:54:27,38.221,24.345,43.49,3.7,"SE of Heraklion, Greece",earthquake,syn_00136,Greece
+2025-04-27T13:18:49,-36.132,175.048,15.78,2.7,"in the Napier, New Zealand",earthquake,syn_00049,New Zealand
+2025-04-27T15:09:05,-23.322,-71.006,45.97,3.2,"in the Valparaíso, Chile",earthquake,syn_00498,Chile
+2025-04-27T15:35:28,-44.698,-70.023,60.32,3.2,"offshore Valparaíso, Chile",earthquake,syn_00485,Chile
+2025-04-27T19:21:22,70.64,-158.977,43.49,5.3,"in the Kodiak, Alaska",earthquake,syn_00822,Alaska
+2025-04-28T01:22:33,35.473,35.855,40.17,4.0,"near Kahramanmaraş, Türkiye",earthquake,syn_00480,Türkiye
+2025-04-28T05:52:59,20.708,-108.948,2.54,4.2,"NW of Colima, Mexico",earthquake,syn_00178,Mexico
+2025-04-28T21:44:55,35.77,-118.365,80.9,4.4,"NW of Los Angeles, California",earthquake,syn_00814,California
+2025-04-28T22:41:14,20.362,-102.788,1.16,4.4,"NW of Colima, Mexico",earthquake,syn_00393,Mexico
+2025-04-29T03:46:48,41.296,19.609,11.53,3.4,"in the Kavala, Greece",quarry blast,syn_00712,Greece
+2025-04-29T06:18:10,-8.163,138.311,46.0,4.9,"in the Ambon, Indonesia",earthquake,syn_00591,Indonesia
+2025-04-29T15:38:40,39.017,27.157,8.78,3.4,"NW of Hatay, Türkiye",earthquake,syn_00714,Türkiye
+2025-04-29T17:47:31,32.818,141.236,51.68,4.1,"152 km NE of Kushiro, Japan",earthquake,syn_00410,Japan
+2025-04-29T21:01:35,17.587,-89.798,9.47,3.5,"SE of Colima, Mexico",earthquake,syn_00492,Mexico
+2025-04-30T09:40:57,-34.476,173.282,82.85,3.3,"NW of Gisborne, New Zealand",earthquake,syn_00321,New Zealand
+2025-04-30T13:37:08,35.892,33.548,47.88,4.9,"161 km SW of İzmir, Türkiye",earthquake,syn_00121,Türkiye
+2025-04-30T22:25:58,-5.059,108.503,24.45,3.4,"offshore Padang, Indonesia",earthquake,syn_00720,Indonesia
+2025-05-01T17:41:34,-46.56,-74.801,12.36,4.4,"offshore Antofagasta, Chile",earthquake,syn_00019,Chile
+2025-05-02T01:34:31,68.912,-163.248,57.71,5.4,"SE of Fairbanks, Alaska",earthquake,syn_00761,Alaska
+2025-05-02T05:59:13,-8.312,125.212,51.8,3.5,"near Jayapura, Indonesia",earthquake,syn_00331,Indonesia
+2025-05-02T17:06:40,16.116,-111.876,5.28,4.3,"offshore Colima, Mexico",earthquake,syn_00508,Mexico
+2025-05-02T19:08:14,-39.572,-75.863,0.48,4.0,"in the Valparaíso, Chile",quarry blast,syn_00540,Chile
+2025-05-02T20:50:35,-7.945,108.034,55.0,4.2,"near Banda Aceh, Indonesia",earthquake,syn_00186,Indonesia
+2025-05-02T23:41:09,-38.254,168.867,8.62,4.6,"NW of Bluff, New Zealand",earthquake,syn_00572,New Zealand
+2025-05-03T01:47:09,-9.197,116.372,10.09,2.8,"in the Jayapura, Indonesia",earthquake,syn_00614,Indonesia
+2025-05-03T07:21:03,21.725,-114.678,3.37,4.6,"SE of Puerto Vallarta, Mexico",earthquake,syn_00805,Mexico
+2025-05-03T09:44:17,40.458,-120.59,65.92,4.8,"SE of Los Angeles, California",earthquake,syn_00454,California
+2025-05-03T23:52:26,-49.659,-71.144,0.84,3.7,"offshore Valparaíso, Chile",ice quake,syn_00383,Chile
+2025-05-04T02:34:24,-26.522,-71.689,2.75,4.4,"in the Antofagasta, Chile",earthquake,syn_00583,Chile
+2025-05-04T03:47:35,-21.416,-66.722,35.72,5.5,"SE of Iquique, Chile",earthquake,syn_00174,Chile
+2025-05-04T05:06:43,37.272,31.121,7.4,4.7,"in the İzmir, Türkiye",earthquake,syn_00532,Türkiye
+2025-05-04T05:13:48,41.224,36.997,19.27,3.3,"near Hatay, Türkiye",earthquake,syn_00528,Türkiye
+2025-05-04T10:43:29,43.866,145.508,86.62,4.3,"near Kushiro, Japan",earthquake,syn_00161,Japan
+2025-05-04T12:42:21,-5.915,108.602,27.03,4.7,"SE of Ambon, Indonesia",earthquake,syn_00455,Indonesia
+2025-05-04T23:15:49,36.176,25.924,9.2,5.6,"199 km SW of Heraklion, Greece",earthquake,syn_00531,Greece
+2025-05-05T05:36:23,-49.791,-68.661,30.01,3.0,"NW of Iquique, Chile",earthquake,syn_00595,Chile
+2025-05-05T13:55:29,38.47,137.783,56.55,4.3,"near Miyako, Japan",earthquake,syn_00810,Japan
+2025-05-05T18:50:40,-27.094,-73.912,1.81,3.3,"near Iquique, Chile",earthquake,syn_00677,Chile
+2025-05-06T04:39:45,54.2,-159.261,19.92,5.6,"NW of Anchorage, Alaska",earthquake,syn_00039,Alaska
+2025-05-06T04:58:52,69.142,-169.149,62.31,4.5,"NW of Anchorage, Alaska",quarry blast,syn_00165,Alaska
+2025-05-06T08:54:18,-19.928,-71.343,26.53,5.0,"near Iquique, Chile",quarry blast,syn_00130,Chile
+2025-05-06T09:33:11,-36.588,-69.817,13.81,4.9,"NW of Concepción, Chile",earthquake,syn_00097,Chile
+2025-05-06T09:33:26,-34.505,-67.926,67.93,4.5,"194 km NE of Concepción, Chile",earthquake,syn_00017,Chile
+2025-05-06T12:46:14,67.449,-161.18,6.17,5.8,"158 km NE of Fairbanks, Alaska",earthquake,syn_00765,Alaska
+2025-05-06T22:21:57,-44.371,-66.576,61.99,3.1,"SE of Valparaíso, Chile",earthquake,syn_00263,Chile
+2025-05-07T00:42:30,41.802,42.129,38.37,5.8,"SE of Erzurum, Türkiye",earthquake,syn_00013,Türkiye
+2025-05-07T08:55:21,34.942,24.765,31.62,4.6,"in the Heraklion, Greece",earthquake,syn_00148,Greece
+2025-05-07T13:19:32,2.145,123.043,67.91,3.3,"near Banda Aceh, Indonesia",earthquake,syn_00461,Indonesia
+2025-05-07T14:38:25,37.034,27.314,29.99,3.8,"offshore Kavala, Greece",earthquake,syn_00524,Greece
+2025-05-07T20:12:00,-23.022,-67.536,12.67,3.8,"NW of Antofagasta, Chile",earthquake,syn_00154,Chile
+2025-05-08T01:09:47,14.204,-102.472,1.74,5.6,"204 km SW of Puerto Vallarta, Mexico",earthquake,syn_00071,Mexico
+2025-05-08T09:18:03,-39.793,173.952,16.32,5.3,"SE of Wellington, New Zealand",earthquake,syn_00051,New Zealand
+2025-05-08T18:20:00,40.358,25.937,9.58,5.2,"offshore Heraklion, Greece",earthquake,syn_00192,Greece
+2025-05-08T22:35:01,35.239,28.447,6.79,4.7,"104 km NE of Kalamata, Greece",earthquake,syn_00486,Greece
+2025-05-08T23:16:52,-22.992,-75.484,0.55,4.2,"40 km NE of Iquique, Chile",induced event,syn_00105,Chile
+2025-05-09T05:07:40,35.091,26.27,53.05,4.6,"near Malatya, Türkiye",earthquake,syn_00443,Türkiye
+2025-05-09T20:14:36,-51.768,-70.511,14.34,4.3,"near Concepción, Chile",earthquake,syn_00657,Chile
+2025-05-10T03:51:55,41.112,41.0,8.48,4.6,"126 km NE of Malatya, Türkiye",earthquake,syn_00600,Türkiye
+2025-05-10T09:19:36,-5.201,129.187,26.98,4.6,"offshore Padang, Indonesia",earthquake,syn_00354,Indonesia
+2025-05-10T15:48:39,41.82,27.533,20.69,2.6,"33 km SW of Kavala, Greece",earthquake,syn_00849,Greece
+2025-05-10T18:37:05,1.669,121.453,11.23,4.2,"79 km SW of Jayapura, Indonesia",earthquake,syn_00726,Indonesia
+2025-05-10T21:00:13,40.456,23.597,1.35,2.2,"near Kalamata, Greece",earthquake,syn_00440,Greece
+2025-05-10T23:38:20,44.282,143.002,37.03,4.3,"SE of Sendai, Japan",earthquake,syn_00843,Japan
+2025-05-11T00:19:06,39.363,28.515,3.98,3.2,"near Patras, Greece",earthquake,syn_00205,Greece
+2025-05-11T09:31:56,68.186,-155.376,13.09,3.8,"SE of Kodiak, Alaska",induced event,syn_00559,Alaska
+2025-05-11T11:50:59,28.498,-93.435,9.37,4.0,"134 km SW of Acapulco, Mexico",earthquake,syn_00632,Mexico
+2025-05-11T12:53:20,26.548,-96.892,9.66,4.1,"68 km SW of Oaxaca, Mexico",earthquake,syn_00547,Mexico
+2025-05-11T19:07:14,36.179,-114.357,25.22,2.2,"in the San Jose, California",earthquake,syn_00060,California
+2025-05-11T21:51:42,5.867,119.886,5.41,3.0,"SE of Banda Aceh, Indonesia",earthquake,syn_00588,Indonesia
+2025-05-12T00:50:00,3.741,126.139,41.39,4.4,"SE of Ambon, Indonesia",earthquake,syn_00506,Indonesia
+2025-05-12T02:16:47,39.208,-116.142,49.33,4.2,"offshore Bakersfield, California",ice quake,syn_00140,California
+2025-05-12T04:13:21,31.916,143.043,45.7,5.3,"146 km NE of Kushiro, Japan",earthquake,syn_00261,Japan
+2025-05-12T08:00:01,-26.328,-71.545,26.91,4.4,"near Concepción, Chile",earthquake,syn_00763,Chile
+2025-05-12T16:54:12,35.337,-123.428,31.57,5.6,"6 km SW of San Jose, California",earthquake,syn_00001,California
+2025-05-12T22:51:03,-36.279,170.522,9.32,4.8,"offshore Napier, New Zealand",earthquake,syn_00180,New Zealand
+2025-05-13T02:08:16,59.046,-152.901,12.03,4.4,"SE of Kodiak, Alaska",earthquake,syn_00639,Alaska
+2025-05-13T07:18:08,33.08,-121.273,48.67,4.2,"offshore Eureka, California",earthquake,syn_00365,California
+2025-05-13T12:14:07,55.505,-148.031,9.85,5.1,"near Anchorage, Alaska",earthquake,syn_00050,Alaska
+2025-05-13T19:04:26,30.378,143.263,8.04,4.1,"NW of Sendai, Japan",earthquake,syn_00470,Japan
+2025-05-13T19:36:00,4.986,96.81,81.49,4.1,"245 km NE of Ambon, Indonesia",earthquake,syn_00224,Indonesia
+2025-05-13T20:24:48,21.101,-102.757,93.26,4.5,"near Acapulco, Mexico",earthquake,syn_00280,Mexico
+2025-05-14T10:19:34,36.062,31.923,8.57,5.3,"37 km NE of Erzurum, Türkiye",earthquake,syn_00119,Türkiye
+2025-05-14T11:11:05,-40.625,168.204,6.99,4.3,"near Napier, New Zealand",earthquake,syn_00700,New Zealand
+2025-05-14T16:28:46,-45.851,175.086,0.95,3.3,"26 km NE of Bluff, New Zealand",earthquake,syn_00534,New Zealand
+2025-05-15T08:12:29,36.919,25.41,36.29,3.0,"near Kalamata, Greece",earthquake,syn_00668,Greece
+2025-05-15T09:26:14,-41.877,-72.644,24.77,5.2,"196 km NE of Concepción, Chile",earthquake,syn_00468,Chile
+2025-05-15T10:16:07,39.979,-120.644,73.98,4.4,"in the Eureka, California",earthquake,syn_00333,California
+2025-05-15T14:21:49,23.338,-95.206,98.46,4.4,"NW of Colima, Mexico",earthquake,syn_00020,Mexico
+2025-05-15T15:20:26,54.103,-168.369,26.81,6.2,"offshore Kodiak, Alaska",earthquake,syn_00025,Alaska
+2025-05-16T00:28:52,43.962,140.234,56.06,3.4,"152 km NE of Miyako, Japan",earthquake,syn_00746,Japan
+2025-05-16T09:48:42,31.259,134.669,33.95,4.0,"198 km SW of Miyako, Japan",earthquake,syn_00477,Japan
+2025-05-16T10:21:30,-37.611,175.36,23.47,5.4,"NW of Bluff, New Zealand",earthquake,syn_00122,New Zealand
+2025-05-16T17:44:32,34.811,26.919,50.07,4.7,"near Heraklion, Greece",earthquake,syn_00797,Greece
+2025-05-16T20:04:10,37.459,28.436,16.33,5.4,"offshore Heraklion, Greece",earthquake,syn_00193,Greece
+2025-05-17T00:41:52,26.45,-87.065,15.0,4.4,"in the Puerto Vallarta, Mexico",earthquake,syn_00725,Mexico
+2025-05-17T11:41:54,34.217,28.662,108.11,4.5,"174 km NE of Heraklion, Greece",earthquake,syn_00350,Greece
+2025-05-17T14:18:14,39.534,-120.861,71.05,2.4,"in the San Jose, California",earthquake,syn_00070,California
+2025-05-18T18:17:28,-39.37,-73.595,33.48,3.9,"SE of Antofagasta, Chile",earthquake,syn_00635,Chile
+2025-05-19T01:47:09,-3.955,97.854,5.3,4.3,"in the Padang, Indonesia",induced event,syn_00672,Indonesia
+2025-05-19T07:06:51,40.487,35.137,26.99,5.7,"SE of Erzurum, Türkiye",earthquake,syn_00208,Türkiye
+2025-05-19T11:26:41,-37.587,-68.187,96.69,3.9,"90 km NE of Iquique, Chile",earthquake,syn_00445,Chile
+2025-05-19T13:09:58,33.244,-114.479,26.64,3.6,"offshore Los Angeles, California",earthquake,syn_00170,California
+2025-05-19T13:24:03,-42.733,171.642,2.78,4.8,"offshore Bluff, New Zealand",earthquake,syn_00309,New Zealand
+2025-05-19T16:48:12,41.229,41.539,21.41,3.6,"SE of İzmir, Türkiye",earthquake,syn_00567,Türkiye
+2025-05-19T16:56:46,-2.772,111.318,15.36,2.3,"SE of Ambon, Indonesia",earthquake,syn_00673,Indonesia
+2025-05-20T08:03:40,18.12,-109.788,7.48,3.9,"offshore Colima, Mexico",earthquake,syn_00273,Mexico
+2025-05-20T08:30:19,-5.55,101.544,11.27,6.0,"near Banda Aceh, Indonesia",earthquake,syn_00587,Indonesia
+2025-05-20T23:40:59,-44.381,169.448,5.58,2.6,"offshore Bluff, New Zealand",earthquake,syn_00811,New Zealand
+2025-05-21T00:02:37,-38.399,178.722,14.07,4.6,"NW of Gisborne, New Zealand",earthquake,syn_00229,New Zealand
+2025-05-21T04:58:00,-5.887,116.392,75.48,4.9,"in the Padang, Indonesia",earthquake,syn_00780,Indonesia
+2025-05-21T15:22:38,-45.815,169.717,33.48,3.9,"near Wellington, New Zealand",earthquake,syn_00697,New Zealand
+2025-05-21T16:44:43,35.797,22.722,16.97,5.2,"near Kalamata, Greece",earthquake,syn_00291,Greece
+2025-05-21T22:10:28,38.402,36.967,1.34,3.5,"SE of İzmir, Türkiye",earthquake,syn_00375,Türkiye
+2025-05-22T00:48:00,55.002,-156.333,8.2,2.8,"NW of Kodiak, Alaska",earthquake,syn_00262,Alaska
+2025-05-22T02:35:16,-42.802,176.337,2.45,3.8,"222 km NE of Gisborne, New Zealand",ice quake,syn_00048,New Zealand
+2025-05-22T05:22:03,31.094,135.849,10.5,3.5,"offshore Kushiro, Japan",earthquake,syn_00407,Japan
+2025-05-22T23:18:43,22.177,-99.993,34.61,2.9,"SE of Colima, Mexico",earthquake,syn_00110,Mexico
+2025-05-23T01:22:30,-22.482,-73.728,54.43,4.5,"SE of Antofagasta, Chile",earthquake,syn_00345,Chile
+2025-05-23T02:53:51,-48.536,-67.018,5.09,5.0,"234 km SW of Iquique, Chile",earthquake,syn_00560,Chile
+2025-05-23T05:08:54,39.255,31.878,52.08,2.5,"224 km NE of Hatay, Türkiye",earthquake,syn_00369,Türkiye
+2025-05-23T05:49:50,37.62,33.042,50.27,5.0,"NW of İzmir, Türkiye",induced event,syn_00069,Türkiye
+2025-05-23T15:47:25,35.924,-116.017,17.35,5.1,"NW of Bakersfield, California",earthquake,syn_00115,California
+2025-05-23T17:39:58,30.22,135.445,20.37,4.0,"NW of Kushiro, Japan",earthquake,syn_00426,Japan
+2025-05-23T21:43:22,40.194,38.877,8.72,4.5,"135 km NE of Hatay, Türkiye",earthquake,syn_00735,Türkiye
+2025-05-24T01:29:40,-40.045,172.196,54.71,4.6,"near Napier, New Zealand",ice quake,syn_00107,New Zealand
+2025-05-24T13:35:47,35.56,24.049,1.11,3.3,"236 km NE of Patras, Greece",earthquake,syn_00806,Greece
+2025-05-24T19:31:55,15.046,-113.543,21.76,6.0,"in the Oaxaca, Mexico",earthquake,syn_00425,Mexico
+2025-05-25T02:36:03,40.151,42.114,72.45,5.4,"near Hatay, Türkiye",earthquake,syn_00142,Türkiye
+2025-05-25T07:23:56,18.415,-112.122,5.24,5.9,"offshore Colima, Mexico",earthquake,syn_00181,Mexico
+2025-05-25T13:49:59,60.866,-162.847,13.69,3.5,"near Anchorage, Alaska",earthquake,syn_00033,Alaska
+2025-05-25T20:51:54,-18.822,-68.621,27.3,4.7,"NW of Antofagasta, Chile",earthquake,syn_00779,Chile
+2025-05-26T14:50:09,-50.782,-67.918,88.52,3.5,"NW of Antofagasta, Chile",ice quake,syn_00405,Chile
+2025-05-26T22:20:12,-41.403,167.854,5.03,3.9,"near Gisborne, New Zealand",earthquake,syn_00380,New Zealand
+2025-05-26T23:24:32,35.564,20.662,13.96,4.0,"NW of Kavala, Greece",earthquake,syn_00778,Greece
+2025-05-27T05:02:03,63.913,-164.867,25.92,3.3,"216 km SW of Fairbanks, Alaska",earthquake,syn_00661,Alaska
+2025-05-27T10:30:28,35.935,24.006,34.15,6.1,"offshore Patras, Greece",earthquake,syn_00439,Greece
+2025-05-28T02:12:32,57.399,-133.179,0.36,3.5,"SE of Fairbanks, Alaska",earthquake,syn_00803,Alaska
+2025-05-28T08:17:42,40.789,20.366,37.02,5.5,"offshore Kalamata, Greece",earthquake,syn_00041,Greece
+2025-05-28T18:08:10,-37.412,170.592,10.55,4.4,"184 km SW of Napier, New Zealand",earthquake,syn_00285,New Zealand
+2025-05-28T22:59:07,35.097,136.746,12.78,4.6,"NW of Miyako, Japan",earthquake,syn_00586,Japan
+2025-05-29T01:15:53,33.595,-123.235,2.19,3.9,"96 km NE of San Jose, California",earthquake,syn_00501,California
+2025-05-29T06:53:10,-52.304,-72.032,1.56,4.4,"NW of Antofagasta, Chile",earthquake,syn_00043,Chile
+2025-05-29T08:03:50,38.108,-122.802,1.71,4.5,"in the Eureka, California",earthquake,syn_00581,California
+2025-05-29T08:23:46,-46.668,-75.663,7.25,4.0,"NW of Concepción, Chile",earthquake,syn_00409,Chile
+2025-05-29T11:46:37,37.462,24.957,52.88,4.7,"26 km SW of Patras, Greece",earthquake,syn_00680,Greece
+2025-05-29T12:51:00,-35.572,166.067,51.44,4.7,"offshore Napier, New Zealand",quarry blast,syn_00183,New Zealand
+2025-05-29T17:59:40,35.008,36.567,6.44,3.5,"offshore Erzurum, Türkiye",earthquake,syn_00184,Türkiye
+2025-05-30T23:20:12,25.083,-106.8,19.06,3.8,"140 km NE of Acapulco, Mexico",earthquake,syn_00209,Mexico
+2025-05-31T00:46:40,67.785,-137.055,14.57,1.7,"offshore Fairbanks, Alaska",earthquake,syn_00605,Alaska
+2025-05-31T05:07:04,53.525,-163.163,68.47,5.5,"NW of Kodiak, Alaska",earthquake,syn_00622,Alaska
+2025-05-31T08:51:09,-41.028,176.947,12.8,4.3,"NW of Bluff, New Zealand",earthquake,syn_00090,New Zealand
+2025-05-31T13:41:23,55.488,-141.315,42.5,3.9,"SE of Fairbanks, Alaska",earthquake,syn_00592,Alaska
+2025-05-31T18:39:48,41.477,29.431,1.04,4.9,"offshore Hatay, Türkiye",earthquake,syn_00160,Türkiye
+2025-05-31T19:47:22,-27.414,-67.029,30.82,4.4,"117 km SW of Antofagasta, Chile",earthquake,syn_00030,Chile
+2025-05-31T21:51:21,-53.761,-75.423,17.63,2.9,"offshore Antofagasta, Chile",earthquake,syn_00449,Chile
+2025-06-01T01:22:20,41.094,37.997,22.81,5.1,"52 km NE of Erzurum, Türkiye",earthquake,syn_00513,Türkiye
+2025-06-01T10:18:16,61.107,-148.268,21.65,4.0,"168 km SW of Anchorage, Alaska",earthquake,syn_00213,Alaska
+2025-06-01T17:09:50,-54.581,-68.505,42.35,4.9,"SE of Concepción, Chile",earthquake,syn_00302,Chile
+2025-06-01T17:57:01,-51.146,-71.141,8.9,4.1,"31 km SW of Iquique, Chile",quarry blast,syn_00241,Chile
+2025-06-01T23:28:04,35.713,35.613,7.49,5.6,"in the Kahramanmaraş, Türkiye",ice quake,syn_00451,Türkiye
+2025-06-01T23:33:51,52.574,-138.011,16.14,4.5,"66 km SW of Anchorage, Alaska",quarry blast,syn_00566,Alaska
+2025-06-02T02:31:31,69.768,-138.672,15.23,4.0,"108 km NE of Anchorage, Alaska",earthquake,syn_00432,Alaska
+2025-06-02T12:27:49,34.584,26.44,41.51,3.3,"NW of Kalamata, Greece",earthquake,syn_00750,Greece
+2025-06-03T02:25:17,1.375,104.177,36.85,4.4,"68 km NE of Padang, Indonesia",earthquake,syn_00108,Indonesia
+2025-06-03T10:43:29,44.673,132.075,48.16,4.2,"80 km SW of Kushiro, Japan",earthquake,syn_00703,Japan
+2025-06-03T17:34:52,-5.613,140.263,7.84,5.0,"near Jayapura, Indonesia",earthquake,syn_00194,Indonesia
+2025-06-03T18:48:03,37.486,38.328,19.59,3.4,"115 km SW of Kahramanmaraş, Türkiye",earthquake,syn_00101,Türkiye
+2025-06-03T18:50:52,36.189,28.971,16.66,2.4,"237 km NE of Patras, Greece",earthquake,syn_00191,Greece
+2025-06-03T20:59:43,-6.853,105.924,10.7,3.2,"208 km SW of Banda Aceh, Indonesia",earthquake,syn_00771,Indonesia
+2025-06-03T22:37:23,39.689,-117.756,43.59,4.7,"offshore Eureka, California",earthquake,syn_00403,California
+2025-06-04T00:25:39,-44.38,178.148,24.37,5.0,"75 km SW of Wellington, New Zealand",earthquake,syn_00640,New Zealand
+2025-06-04T21:54:04,36.537,44.237,28.74,4.7,"offshore İzmir, Türkiye",earthquake,syn_00511,Türkiye
+2025-06-05T01:25:12,-20.369,-75.791,11.38,4.1,"NW of Valparaíso, Chile",earthquake,syn_00669,Chile
+2025-06-05T10:15:31,41.622,27.252,19.52,3.5,"offshore Heraklion, Greece",earthquake,syn_00268,Greece
+2025-06-05T18:10:17,-41.832,-72.024,9.21,3.4,"102 km NE of Iquique, Chile",earthquake,syn_00481,Chile
+2025-06-05T18:59:21,-9.004,118.575,49.26,6.0,"SE of Ambon, Indonesia",earthquake,syn_00327,Indonesia
+2025-06-06T08:48:15,38.898,23.844,32.44,4.0,"near Kalamata, Greece",earthquake,syn_00207,Greece
+2025-06-06T10:23:19,-9.337,139.519,23.95,3.3,"SE of Ambon, Indonesia",earthquake,syn_00699,Indonesia
+2025-06-06T14:52:20,39.738,41.741,40.47,4.9,"145 km NE of Kahramanmaraş, Türkiye",earthquake,syn_00402,Türkiye
+2025-06-06T16:30:54,61.33,-148.578,13.24,4.5,"SE of Fairbanks, Alaska",earthquake,syn_00503,Alaska
+2025-06-06T23:20:07,32.194,-122.923,16.05,4.5,"near Los Angeles, California",earthquake,syn_00839,California
+2025-06-07T02:12:13,37.88,19.854,28.57,4.2,"near Kalamata, Greece",earthquake,syn_00804,Greece
+2025-06-07T03:14:43,35.994,23.104,42.26,3.9,"17 km NE of Kavala, Greece",earthquake,syn_00015,Greece
+2025-06-07T14:03:18,-38.904,176.488,55.36,3.1,"offshore Bluff, New Zealand",earthquake,syn_00647,New Zealand
+2025-06-08T02:40:27,24.409,-112.444,14.74,4.6,"in the Puerto Vallarta, Mexico",earthquake,syn_00436,Mexico
+2025-06-08T20:20:33,-46.342,166.512,25.6,3.7,"near Bluff, New Zealand",earthquake,syn_00625,New Zealand
+2025-06-08T21:09:27,61.121,-149.69,4.47,2.7,"95 km NE of Fairbanks, Alaska",earthquake,syn_00743,Alaska
+2025-06-09T02:23:22,24.694,-105.192,105.11,3.9,"181 km SW of Acapulco, Mexico",earthquake,syn_00081,Mexico
+2025-06-09T10:03:36,41.224,-124.2,9.88,3.7,"in the Eureka, California",earthquake,syn_00701,California
+2025-06-09T13:19:01,29.654,-102.361,37.44,5.4,"119 km SW of Colima, Mexico",earthquake,syn_00845,Mexico
+2025-06-09T18:30:54,-4.008,111.996,1.39,4.1,"near Ambon, Indonesia",quarry blast,syn_00523,Indonesia
+2025-06-09T22:38:09,16.506,-100.495,69.03,2.6,"NW of Colima, Mexico",earthquake,syn_00320,Mexico
+2025-06-10T06:17:12,-33.17,-67.582,4.52,4.3,"233 km NE of Concepción, Chile",earthquake,syn_00113,Chile
+2025-06-10T08:14:09,31.747,131.161,6.3,2.9,"240 km NE of Miyako, Japan",earthquake,syn_00685,Japan
+2025-06-10T11:41:09,34.268,136.532,28.8,4.2,"47 km NE of Sendai, Japan",earthquake,syn_00663,Japan
+2025-06-10T22:13:47,35.879,44.306,26.43,4.2,"NW of Malatya, Türkiye",earthquake,syn_00664,Türkiye
+2025-06-10T22:14:05,25.48,-91.578,35.07,4.2,"NW of Colima, Mexico",earthquake,syn_00666,Mexico
+2025-06-11T05:34:06,51.344,-158.925,6.12,4.8,"51 km NE of Fairbanks, Alaska",earthquake,syn_00096,Alaska
+2025-06-11T06:16:54,-40.767,-66.493,5.09,4.8,"79 km NE of Antofagasta, Chile",earthquake,syn_00000,Chile
+2025-06-11T07:37:21,-7.988,101.105,4.65,4.7,"NW of Jayapura, Indonesia",earthquake,syn_00227,Indonesia
+2025-06-11T10:03:21,40.754,28.3,8.8,3.2,"in the Heraklion, Greece",earthquake,syn_00040,Greece
+2025-06-11T10:16:46,41.395,-115.157,27.33,5.3,"offshore Bakersfield, California",earthquake,syn_00007,California
+2025-06-11T11:40:34,30.37,-111.106,2.43,4.4,"NW of Puerto Vallarta, Mexico",earthquake,syn_00760,Mexico
+2025-06-11T17:03:23,-41.692,-69.225,14.66,4.8,"near Valparaíso, Chile",earthquake,syn_00526,Chile
+2025-06-11T19:02:40,30.388,-107.763,22.25,6.0,"near Puerto Vallarta, Mexico",earthquake,syn_00089,Mexico
+2025-06-11T19:48:30,24.484,-93.81,4.11,4.7,"NW of Colima, Mexico",quarry blast,syn_00290,Mexico
+2025-06-11T21:29:45,35.71,31.279,9.7,5.0,"109 km SW of Malatya, Türkiye",induced event,syn_00479,Türkiye
+2025-06-11T22:19:49,-35.216,174.115,3.73,4.2,"offshore Gisborne, New Zealand",earthquake,syn_00117,New Zealand
+2025-06-12T02:48:34,40.861,36.317,0.37,5.5,"in the Erzurum, Türkiye",earthquake,syn_00690,Türkiye
+2025-06-12T06:10:50,1.299,109.212,4.27,3.7,"SE of Padang, Indonesia",earthquake,syn_00541,Indonesia
+2025-06-13T07:21:36,31.11,-98.38,40.83,4.2,"near Oaxaca, Mexico",earthquake,syn_00361,Mexico
+2025-06-13T12:43:10,60.015,-169.535,19.61,4.0,"in the Fairbanks, Alaska",earthquake,syn_00200,Alaska
+2025-06-13T17:36:59,-5.142,109.338,0.1,5.6,"194 km NE of Jayapura, Indonesia",earthquake,syn_00561,Indonesia
+2025-06-13T21:46:42,41.185,31.142,0.22,4.1,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00692,Türkiye
+2025-06-14T00:16:58,40.323,135.755,19.61,3.3,"SE of Miyako, Japan",earthquake,syn_00225,Japan
+2025-06-14T00:32:54,40.484,43.276,68.19,5.4,"in the İzmir, Türkiye",earthquake,syn_00728,Türkiye
+2025-06-14T01:35:44,36.128,-116.174,19.56,2.9,"NW of Los Angeles, California",earthquake,syn_00349,California
+2025-06-14T11:31:06,40.103,42.372,9.61,5.1,"NW of Kahramanmaraş, Türkiye",earthquake,syn_00467,Türkiye
+2025-06-14T15:47:50,40.035,-114.778,11.64,4.9,"69 km NE of Eureka, California",earthquake,syn_00408,California
+2025-06-14T18:13:32,40.265,-118.865,19.01,2.5,"SE of San Jose, California",earthquake,syn_00834,California
+2025-06-14T19:54:34,-33.955,-70.87,41.93,4.9,"NW of Concepción, Chile",earthquake,syn_00748,Chile
+2025-06-15T06:32:33,-6.707,100.148,9.43,4.1,"in the Jayapura, Indonesia",earthquake,syn_00223,Indonesia
+2025-06-15T08:23:45,-39.506,-74.388,32.05,4.6,"NW of Iquique, Chile",earthquake,syn_00607,Chile
+2025-06-15T08:52:02,40.925,-120.123,28.03,3.6,"offshore Bakersfield, California",earthquake,syn_00359,California
+2025-06-15T09:30:13,39.151,33.439,0.1,5.7,"NW of İzmir, Türkiye",earthquake,syn_00304,Türkiye
+2025-06-15T16:23:54,41.738,-119.014,9.66,5.1,"83 km NE of Los Angeles, California",earthquake,syn_00627,California
+2025-06-15T18:26:54,53.572,-162.466,8.02,3.6,"offshore Anchorage, Alaska",earthquake,syn_00228,Alaska
+2025-06-15T23:54:47,-44.639,177.81,26.27,5.1,"27 km NE of Wellington, New Zealand",earthquake,syn_00123,New Zealand
+2025-06-16T00:52:27,-0.668,95.52,1.23,3.6,"NW of Ambon, Indonesia",earthquake,syn_00626,Indonesia
+2025-06-16T02:19:23,19.315,-92.404,50.74,3.5,"SE of Acapulco, Mexico",earthquake,syn_00244,Mexico
+2025-06-16T06:58:45,39.48,-116.06,36.81,4.3,"near Eureka, California",earthquake,syn_00537,California
+2025-06-16T09:44:52,37.894,28.061,17.1,4.3,"in the Kalamata, Greece",earthquake,syn_00035,Greece
+2025-06-16T16:02:59,-44.347,169.795,7.3,4.1,"offshore Gisborne, New Zealand",earthquake,syn_00786,New Zealand
+2025-06-16T16:25:48,-7.451,122.828,150.34,4.9,"SE of Padang, Indonesia",earthquake,syn_00232,Indonesia
+2025-06-16T22:58:15,-40.323,169.294,131.85,4.6,"183 km NE of Bluff, New Zealand",earthquake,syn_00495,New Zealand
+2025-06-18T13:39:08,68.989,-137.1,3.73,4.1,"SE of Anchorage, Alaska",ice quake,syn_00594,Alaska
+2025-06-18T17:05:05,26.343,-88.783,64.01,4.6,"SE of Colima, Mexico",earthquake,syn_00550,Mexico
+2025-06-19T12:34:37,30.59,142.59,29.66,4.7,"in the Sendai, Japan",quarry blast,syn_00095,Japan
+2025-06-19T12:56:14,-19.003,-74.466,28.36,4.4,"NW of Concepción, Chile",earthquake,syn_00124,Chile
+2025-06-19T14:49:15,71.924,-164.591,4.28,3.3,"near Fairbanks, Alaska",ice quake,syn_00706,Alaska
+2025-06-19T17:07:57,28.503,-106.826,55.15,2.8,"offshore Colima, Mexico",earthquake,syn_00604,Mexico
+2025-06-19T19:33:17,39.907,-121.494,28.7,5.0,"in the Eureka, California",earthquake,syn_00164,California
+2025-06-20T03:43:29,35.301,40.838,15.24,3.3,"NW of Erzurum, Türkiye",earthquake,syn_00615,Türkiye
+2025-06-20T05:28:16,-44.344,172.601,16.3,3.5,"SE of Wellington, New Zealand",earthquake,syn_00515,New Zealand
+2025-06-20T12:27:10,-33.633,-66.424,5.78,6.0,"SE of Concepción, Chile",earthquake,syn_00257,Chile
+2025-06-20T14:28:02,21.119,-98.208,31.93,5.4,"NW of Acapulco, Mexico",quarry blast,syn_00214,Mexico
+2025-06-20T14:42:30,34.62,21.823,26.41,4.9,"in the Kalamata, Greece",quarry blast,syn_00829,Greece
+2025-06-20T20:46:19,30.825,-109.223,3.85,5.7,"offshore Oaxaca, Mexico",ice quake,syn_00671,Mexico
+2025-06-21T01:19:50,37.649,26.852,6.68,3.8,"248 km NE of Heraklion, Greece",earthquake,syn_00003,Greece
+2025-06-21T05:17:00,-40.931,170.676,23.05,4.2,"near Bluff, New Zealand",earthquake,syn_00831,New Zealand
+2025-06-21T14:13:44,31.372,143.917,65.88,3.6,"in the Hachinohe, Japan",earthquake,syn_00176,Japan
+2025-06-21T16:02:34,-41.155,-73.048,3.0,4.1,"SE of Antofagasta, Chile",earthquake,syn_00456,Chile
+2025-06-21T17:34:21,31.408,-104.049,124.26,4.4,"17 km NE of Oaxaca, Mexico",earthquake,syn_00337,Mexico
+2025-06-22T00:45:19,34.983,-116.469,14.98,5.5,"226 km SW of Bakersfield, California",quarry blast,syn_00741,California
+2025-06-22T01:31:40,-36.582,-74.342,15.92,3.8,"near Iquique, Chile",earthquake,syn_00326,Chile
+2025-06-22T06:11:55,39.797,27.746,4.9,4.2,"in the Erzurum, Türkiye",earthquake,syn_00296,Türkiye
+2025-06-22T08:31:22,-5.825,139.602,57.5,5.0,"SE of Ambon, Indonesia",earthquake,syn_00766,Indonesia
+2025-06-22T10:19:25,53.528,-143.054,5.93,4.3,"offshore Anchorage, Alaska",earthquake,syn_00507,Alaska
+2025-06-22T12:06:44,-29.297,-72.99,6.1,3.5,"202 km NE of Valparaíso, Chile",earthquake,syn_00817,Chile
+2025-06-22T15:25:22,39.934,27.815,9.77,5.1,"NW of Kalamata, Greece",earthquake,syn_00299,Greece
+2025-06-23T08:16:35,24.712,-116.692,18.71,3.3,"NW of Acapulco, Mexico",earthquake,syn_00427,Mexico
+2025-06-23T14:14:34,42.066,141.157,26.98,4.3,"offshore Kushiro, Japan",earthquake,syn_00545,Japan
+2025-06-23T16:44:57,-48.418,-71.661,15.25,5.9,"near Antofagasta, Chile",earthquake,syn_00053,Chile
+2025-06-24T01:53:02,43.489,139.6,6.76,3.8,"11 km SW of Hachinohe, Japan",earthquake,syn_00816,Japan
+2025-06-24T13:08:20,14.378,-91.592,52.26,4.3,"in the Puerto Vallarta, Mexico",earthquake,syn_00689,Mexico
+2025-06-25T01:24:49,23.581,-111.782,13.21,4.8,"near Colima, Mexico",earthquake,syn_00388,Mexico
+2025-06-25T11:21:57,54.637,-147.742,78.67,4.4,"NW of Fairbanks, Alaska",earthquake,syn_00582,Alaska
+2025-06-25T20:25:22,30.219,133.206,16.09,4.1,"123 km NE of Kushiro, Japan",earthquake,syn_00688,Japan
+2025-06-26T16:42:28,55.461,-146.895,5.43,4.2,"92 km SW of Anchorage, Alaska",earthquake,syn_00131,Alaska
+2025-06-26T16:43:37,32.35,-116.339,15.9,5.2,"near San Jose, California",earthquake,syn_00497,California
+2025-06-26T18:51:07,34.74,-118.476,8.33,3.2,"offshore Bakersfield, California",quarry blast,syn_00826,California
+2025-06-26T19:04:34,-43.805,171.236,19.71,7.3,"in the Gisborne, New Zealand",earthquake,syn_00448,New Zealand
+2025-06-26T21:49:12,40.986,-118.329,0.28,4.5,"NW of Eureka, California",induced event,syn_00031,California
+2025-06-27T10:44:30,34.107,-118.147,29.95,4.6,"offshore Bakersfield, California",earthquake,syn_00215,California
+2025-06-27T17:10:58,-40.909,-69.312,9.64,5.1,"near Antofagasta, Chile",earthquake,syn_00012,Chile
+2025-06-27T19:31:57,-35.571,169.164,24.45,2.4,"near Wellington, New Zealand",earthquake,syn_00535,New Zealand
+2025-06-28T21:53:38,40.784,26.243,31.85,3.8,"near Heraklion, Greece",earthquake,syn_00274,Greece
+2025-06-28T23:27:06,39.809,-116.294,1.89,4.5,"SE of Eureka, California",earthquake,syn_00642,California
+2025-06-29T13:34:46,-9.002,110.423,2.08,4.9,"in the Banda Aceh, Indonesia",earthquake,syn_00555,Indonesia
+2025-06-29T13:59:31,57.285,-139.361,26.0,5.8,"50 km NE of Kodiak, Alaska",induced event,syn_00698,Alaska
+2025-06-30T00:32:02,-38.051,171.653,8.49,6.3,"near Bluff, New Zealand",earthquake,syn_00155,New Zealand
+2025-06-30T02:52:50,37.854,42.841,9.46,5.2,"NW of İzmir, Türkiye",ice quake,syn_00740,Türkiye
+2025-06-30T04:01:51,-42.655,176.204,21.85,5.1,"SE of Wellington, New Zealand",earthquake,syn_00308,New Zealand
+2025-06-30T06:35:21,-3.977,121.255,19.54,5.2,"NW of Jayapura, Indonesia",earthquake,syn_00747,Indonesia
+2025-06-30T10:23:47,36.349,28.452,10.61,4.3,"SE of Malatya, Türkiye",earthquake,syn_00835,Türkiye
+2025-06-30T12:00:52,-30.271,-67.258,7.71,2.8,"76 km SW of Antofagasta, Chile",earthquake,syn_00348,Chile
+2025-06-30T15:45:13,36.16,42.926,8.29,5.8,"in the Erzurum, Türkiye",earthquake,syn_00509,Türkiye
+2025-06-30T16:26:52,-3.136,104.249,17.2,5.8,"near Padang, Indonesia",earthquake,syn_00536,Indonesia
+2025-06-30T23:32:39,-28.513,-72.37,63.43,5.0,"near Iquique, Chile",earthquake,syn_00739,Chile
+2025-07-01T05:41:35,22.182,-97.546,26.33,4.2,"SE of Acapulco, Mexico",earthquake,syn_00075,Mexico
+2025-07-01T06:02:42,15.927,-103.358,39.25,5.1,"NW of Puerto Vallarta, Mexico",earthquake,syn_00593,Mexico
+2025-07-01T22:19:13,40.445,-121.49,3.85,2.9,"offshore Bakersfield, California",earthquake,syn_00162,California
+2025-07-01T22:48:47,57.514,-148.509,18.49,3.8,"99 km SW of Kodiak, Alaska",earthquake,syn_00091,Alaska
+2025-07-02T04:16:28,-42.576,-72.943,34.39,5.7,"in the Concepción, Chile",earthquake,syn_00660,Chile
+2025-07-02T16:10:06,34.55,24.497,16.2,4.1,"48 km SW of Kalamata, Greece",earthquake,syn_00833,Greece
+2025-07-02T17:18:11,5.212,127.317,10.62,3.5,"SE of Padang, Indonesia",earthquake,syn_00419,Indonesia
+2025-07-02T19:35:46,-25.24,-74.775,30.23,3.9,"near Antofagasta, Chile",earthquake,syn_00759,Chile
+2025-07-02T20:32:03,-35.228,176.86,6.67,4.0,"offshore Napier, New Zealand",earthquake,syn_00686,New Zealand
+2025-07-02T21:39:50,39.866,33.682,16.77,2.7,"near Kahramanmaraş, Türkiye",earthquake,syn_00251,Türkiye
+2025-07-02T21:47:15,-7.55,128.493,44.06,5.6,"SE of Jayapura, Indonesia",earthquake,syn_00790,Indonesia
+2025-07-02T22:09:26,37.389,34.439,59.29,4.3,"near Kahramanmaraş, Türkiye",earthquake,syn_00752,Türkiye
+2025-07-02T23:53:22,41.133,31.277,13.61,4.2,"9 km NE of Malatya, Türkiye",earthquake,syn_00270,Türkiye
+2025-07-03T00:31:35,22.394,-114.653,14.72,5.5,"150 km NE of Colima, Mexico",quarry blast,syn_00519,Mexico
+2025-07-03T01:13:57,38.957,24.996,21.18,5.7,"SE of Kalamata, Greece",quarry blast,syn_00585,Greece
+2025-07-03T02:10:08,-31.234,-67.917,2.15,5.4,"offshore Valparaíso, Chile",earthquake,syn_00769,Chile
+2025-07-03T05:39:50,36.148,21.875,27.76,4.4,"223 km SW of Patras, Greece",earthquake,syn_00482,Greece
+2025-07-03T08:46:47,41.671,136.832,134.86,6.0,"SE of Sendai, Japan",induced event,syn_00753,Japan
+2025-07-03T11:34:34,-1.589,102.897,9.54,4.9,"NW of Ambon, Indonesia",quarry blast,syn_00147,Indonesia
+2025-07-03T17:45:14,31.966,142.556,11.16,5.7,"near Miyako, Japan",earthquake,syn_00830,Japan
+2025-07-04T05:26:32,-37.226,176.555,58.67,4.1,"SE of Gisborne, New Zealand",earthquake,syn_00734,New Zealand
+2025-07-04T06:43:46,34.815,19.083,17.05,3.9,"near Heraklion, Greece",earthquake,syn_00489,Greece
+2025-07-04T10:00:07,34.223,143.837,23.34,4.5,"213 km NE of Kushiro, Japan",earthquake,syn_00352,Japan
+2025-07-04T13:11:17,52.498,-143.137,22.04,4.7,"offshore Kodiak, Alaska",earthquake,syn_00085,Alaska
+2025-07-04T16:59:58,20.118,-94.532,2.03,4.7,"offshore Puerto Vallarta, Mexico",earthquake,syn_00163,Mexico
+2025-07-04T18:54:52,42.281,134.483,25.68,4.8,"near Miyako, Japan",earthquake,syn_00266,Japan
+2025-07-05T00:08:37,34.088,20.369,69.08,2.7,"in the Patras, Greece",earthquake,syn_00149,Greece
+2025-07-05T02:40:31,-32.054,-70.234,46.2,2.4,"103 km NE of Antofagasta, Chile",quarry blast,syn_00570,Chile
+2025-07-05T12:14:28,1.216,98.347,2.55,4.7,"170 km NE of Padang, Indonesia",induced event,syn_00068,Indonesia
+2025-07-05T15:00:10,29.528,-111.443,15.15,4.4,"in the Puerto Vallarta, Mexico",earthquake,syn_00472,Mexico
+2025-07-05T15:39:29,24.953,-106.165,3.63,4.7,"121 km SW of Puerto Vallarta, Mexico",earthquake,syn_00323,Mexico
+2025-07-05T16:08:54,19.816,-86.834,22.13,2.8,"176 km NE of Puerto Vallarta, Mexico",earthquake,syn_00226,Mexico
+2025-07-05T23:10:33,41.22,143.221,36.56,4.4,"in the Miyako, Japan",earthquake,syn_00795,Japan
+2025-07-06T02:44:38,33.375,-121.248,3.61,4.6,"NW of Bakersfield, California",earthquake,syn_00027,California
+2025-07-06T07:06:51,35.217,23.403,64.22,3.5,"offshore Patras, Greece",earthquake,syn_00336,Greece
+2025-07-06T09:03:58,38.997,27.644,140.27,5.7,"23 km SW of Patras, Greece",earthquake,syn_00542,Greece
+2025-07-06T16:16:49,-2.142,137.647,15.81,4.4,"near Padang, Indonesia",earthquake,syn_00500,Indonesia
+2025-07-07T00:40:42,40.817,132.124,11.94,4.5,"offshore Kushiro, Japan",earthquake,syn_00799,Japan
+2025-07-07T01:13:24,40.557,38.529,10.25,5.1,"SE of Malatya, Türkiye",earthquake,syn_00638,Türkiye
+2025-07-07T02:23:57,-34.647,171.798,6.14,5.2,"84 km SW of Napier, New Zealand",earthquake,syn_00157,New Zealand
+2025-07-07T03:41:33,-5.683,132.952,20.69,5.9,"215 km NE of Jayapura, Indonesia",earthquake,syn_00307,Indonesia
+2025-07-07T09:34:07,43.62,135.737,10.54,3.7,"near Miyako, Japan",earthquake,syn_00679,Japan
+2025-07-07T10:31:09,41.794,132.423,12.02,3.6,"near Kushiro, Japan",earthquake,syn_00328,Japan
+2025-07-07T19:12:37,-3.363,112.815,31.34,3.6,"offshore Padang, Indonesia",earthquake,syn_00674,Indonesia
+2025-07-08T01:34:18,44.457,131.296,4.94,6.4,"near Kushiro, Japan",ice quake,syn_00643,Japan
+2025-07-08T02:19:45,-43.733,-66.818,132.85,4.5,"in the Iquique, Chile",earthquake,syn_00340,Chile
+2025-07-08T11:21:35,-42.018,-69.515,2.13,4.8,"NW of Concepción, Chile",earthquake,syn_00791,Chile
+2025-07-09T09:40:20,-36.698,-74.231,14.69,5.4,"SE of Concepción, Chile",earthquake,syn_00275,Chile
+2025-07-09T10:00:48,67.171,-158.897,21.72,3.6,"offshore Anchorage, Alaska",earthquake,syn_00132,Alaska
+2025-07-09T14:21:28,-8.864,98.688,33.13,4.7,"206 km SW of Padang, Indonesia",earthquake,syn_00372,Indonesia
+2025-07-09T21:09:55,-41.543,169.331,0.16,3.5,"near Wellington, New Zealand",earthquake,syn_00042,New Zealand
+2025-07-10T02:37:30,34.03,138.208,4.5,3.0,"242 km NE of Miyako, Japan",induced event,syn_00146,Japan
+2025-07-10T02:49:54,15.359,-93.649,9.54,1.0,"114 km SW of Oaxaca, Mexico",earthquake,syn_00137,Mexico
+2025-07-10T05:10:55,37.346,28.327,49.91,4.1,"243 km SW of Kavala, Greece",earthquake,syn_00080,Greece
+2025-07-10T11:06:14,23.405,-113.18,58.86,3.8,"NW of Puerto Vallarta, Mexico",earthquake,syn_00243,Mexico
+2025-07-10T16:35:40,40.94,-121.288,39.22,5.0,"SE of San Jose, California",earthquake,syn_00571,California
+2025-07-10T23:21:23,38.226,41.745,3.34,4.7,"18 km NE of Kahramanmaraş, Türkiye",earthquake,syn_00738,Türkiye
+2025-07-11T06:15:08,40.275,-116.59,25.57,4.0,"in the San Jose, California",earthquake,syn_00397,California
+2025-07-11T14:27:11,0.703,134.752,25.46,4.2,"53 km SW of Padang, Indonesia",earthquake,syn_00036,Indonesia
+2025-07-11T16:15:38,19.225,-99.58,25.21,4.4,"SE of Colima, Mexico",induced event,syn_00840,Mexico
+2025-07-11T21:21:11,36.596,34.115,0.21,4.5,"159 km NE of Malatya, Türkiye",earthquake,syn_00018,Türkiye
+2025-07-12T01:59:07,40.354,21.758,118.88,4.1,"56 km NE of Patras, Greece",earthquake,syn_00394,Greece
+2025-07-12T03:46:47,30.966,-115.672,39.2,3.5,"in the Oaxaca, Mexico",earthquake,syn_00522,Mexico
+2025-07-12T13:28:05,20.848,-99.997,17.63,5.2,"SE of Colima, Mexico",earthquake,syn_00236,Mexico
+2025-07-13T01:29:29,36.44,28.306,30.98,5.4,"in the Hatay, Türkiye",earthquake,syn_00288,Türkiye
+2025-07-13T04:07:09,59.918,-165.47,125.68,5.9,"168 km NE of Kodiak, Alaska",earthquake,syn_00127,Alaska
+2025-07-13T04:47:42,-43.876,167.235,5.84,3.6,"near Napier, New Zealand",earthquake,syn_00658,New Zealand
+2025-07-13T11:09:28,30.936,-91.368,32.99,4.5,"offshore Colima, Mexico",earthquake,syn_00231,Mexico
+2025-07-13T16:09:48,57.182,-149.292,2.76,4.2,"SE of Kodiak, Alaska",earthquake,syn_00203,Alaska
+2025-07-13T22:52:27,-5.364,102.416,48.84,5.0,"in the Padang, Indonesia",earthquake,syn_00016,Indonesia
+2025-07-14T09:06:55,19.901,-91.712,19.24,2.7,"23 km NE of Puerto Vallarta, Mexico",earthquake,syn_00792,Mexico
+2025-07-14T19:14:58,-36.643,169.256,53.66,5.2,"214 km NE of Gisborne, New Zealand",earthquake,syn_00474,New Zealand
+2025-07-14T20:57:12,5.048,124.843,92.74,6.0,"in the Banda Aceh, Indonesia",earthquake,syn_00675,Indonesia
+2025-07-14T21:09:38,36.081,26.308,25.0,3.2,"SE of Kalamata, Greece",induced event,syn_00322,Greece
+2025-07-15T11:49:17,70.987,-135.377,0.5,5.8,"NW of Fairbanks, Alaska",earthquake,syn_00828,Alaska
+2025-07-15T19:22:58,33.746,-117.218,26.22,4.7,"in the Los Angeles, California",earthquake,syn_00798,California
+2025-07-15T21:24:19,40.842,132.941,36.68,3.7,"in the Hachinohe, Japan",earthquake,syn_00749,Japan
+2025-07-15T22:22:25,35.955,20.129,16.35,4.4,"SE of Patras, Greece",earthquake,syn_00342,Greece
+2025-07-16T02:40:33,34.136,26.702,49.38,4.8,"NW of Heraklion, Greece",earthquake,syn_00429,Greece
+2025-07-16T07:52:45,-35.234,-74.571,20.6,3.5,"SE of Concepción, Chile",earthquake,syn_00412,Chile
+2025-07-16T09:08:27,-42.838,-67.045,14.79,4.4,"193 km SW of Concepción, Chile",quarry blast,syn_00063,Chile
+2025-07-16T09:53:04,4.927,133.065,18.58,5.2,"243 km SW of Ambon, Indonesia",earthquake,syn_00466,Indonesia
+2025-07-16T15:10:46,35.312,135.752,3.32,4.5,"in the Sendai, Japan",earthquake,syn_00099,Japan
+2025-07-16T16:06:23,-47.732,-69.862,17.15,3.8,"offshore Antofagasta, Chile",earthquake,syn_00343,Chile
+2025-07-16T18:51:24,39.725,130.26,14.12,5.0,"83 km SW of Miyako, Japan",earthquake,syn_00521,Japan
+2025-07-17T01:27:50,0.592,132.487,45.16,3.3,"SE of Padang, Indonesia",earthquake,syn_00533,Indonesia
+2025-07-17T01:51:44,2.74,128.811,28.26,5.5,"near Banda Aceh, Indonesia",earthquake,syn_00711,Indonesia
+2025-07-17T02:52:58,-1.881,135.214,20.41,4.0,"in the Ambon, Indonesia",induced event,syn_00367,Indonesia
+2025-07-17T10:14:36,2.056,135.152,28.96,5.8,"SE of Banda Aceh, Indonesia",earthquake,syn_00662,Indonesia
+2025-07-17T19:23:17,37.037,-115.879,21.29,5.2,"123 km SW of Eureka, California",earthquake,syn_00767,California
+2025-07-17T20:02:18,-40.552,175.008,12.85,3.8,"SE of Bluff, New Zealand",earthquake,syn_00059,New Zealand
+2025-07-17T20:56:36,37.038,24.903,9.36,5.1,"NW of Kavala, Greece",earthquake,syn_00143,Greece
+2025-07-18T01:36:07,-8.629,136.133,6.39,3.7,"101 km NE of Padang, Indonesia",earthquake,syn_00253,Indonesia
+2025-07-18T06:36:47,-35.158,176.693,89.75,4.5,"offshore Napier, New Zealand",earthquake,syn_00079,New Zealand
+2025-07-18T15:07:57,-45.414,172.437,1.05,5.1,"in the Wellington, New Zealand",earthquake,syn_00005,New Zealand
+2025-07-18T20:11:57,60.83,-160.111,61.38,3.6,"near Anchorage, Alaska",earthquake,syn_00217,Alaska
+2025-07-18T21:44:49,-40.867,173.195,25.34,3.3,"SE of Bluff, New Zealand",earthquake,syn_00709,New Zealand
+2025-07-18T22:19:42,-5.633,110.706,17.87,4.0,"38 km SW of Banda Aceh, Indonesia",earthquake,syn_00589,Indonesia
+2025-07-18T22:57:35,36.547,44.59,5.98,4.5,"207 km NE of Erzurum, Türkiye",earthquake,syn_00294,Türkiye
+2025-07-19T05:08:43,-19.335,-75.992,15.32,4.2,"NW of Valparaíso, Chile",earthquake,syn_00002,Chile
+2025-07-19T06:17:48,38.512,27.407,7.97,4.3,"NW of Kavala, Greece",earthquake,syn_00100,Greece
+2025-07-19T06:46:25,34.233,28.072,21.91,3.8,"35 km SW of Kalamata, Greece",earthquake,syn_00612,Greece
+2025-07-19T17:14:48,4.355,136.419,30.08,5.4,"offshore Ambon, Indonesia",earthquake,syn_00029,Indonesia
+2025-07-19T18:10:04,-37.528,-75.418,158.16,4.0,"in the Iquique, Chile",earthquake,syn_00271,Chile
+2025-07-19T21:53:12,34.244,-122.538,23.1,3.7,"72 km SW of Eureka, California",earthquake,syn_00175,California
+2025-07-20T04:40:50,65.563,-154.431,7.8,5.8,"SE of Fairbanks, Alaska",quarry blast,syn_00543,Alaska
+2025-07-20T18:30:25,33.639,130.552,11.51,4.7,"in the Miyako, Japan",earthquake,syn_00713,Japan
+2025-07-20T20:36:35,63.492,-144.492,8.31,2.8,"SE of Fairbanks, Alaska",earthquake,syn_00491,Alaska
+2025-07-21T02:13:40,21.162,-91.346,5.62,3.8,"in the Acapulco, Mexico",earthquake,syn_00577,Mexico
+2025-07-21T04:23:58,64.333,-161.733,9.6,4.0,"NW of Kodiak, Alaska",earthquake,syn_00057,Alaska
+2025-07-21T15:04:21,39.156,26.192,30.33,4.0,"NW of Malatya, Türkiye",earthquake,syn_00373,Türkiye
+2025-07-21T17:10:58,15.846,-104.825,24.18,3.0,"SE of Puerto Vallarta, Mexico",earthquake,syn_00505,Mexico
+2025-07-22T14:25:48,17.335,-108.362,7.4,5.0,"offshore Acapulco, Mexico",quarry blast,syn_00569,Mexico
+2025-07-22T20:16:04,32.367,-114.47,52.5,3.7,"58 km SW of Los Angeles, California",ice quake,syn_00173,California
+2025-07-23T03:57:13,41.071,130.408,27.73,3.0,"in the Hachinohe, Japan",earthquake,syn_00151,Japan
+2025-07-23T04:39:25,-34.295,169.151,32.66,4.1,"52 km SW of Napier, New Zealand",earthquake,syn_00789,New Zealand
+2025-07-23T05:26:04,3.177,132.752,19.47,3.0,"offshore Jayapura, Indonesia",earthquake,syn_00603,Indonesia
+2025-07-23T07:24:31,5.224,133.97,19.43,2.7,"SE of Ambon, Indonesia",earthquake,syn_00238,Indonesia
+2025-07-23T08:10:28,-37.976,172.665,1.01,3.3,"offshore Gisborne, New Zealand",earthquake,syn_00346,New Zealand
+2025-07-23T14:51:06,33.48,-115.622,4.26,4.7,"NW of Los Angeles, California",earthquake,syn_00392,California
+2025-07-23T22:37:11,34.419,-117.147,51.87,5.2,"83 km SW of San Jose, California",earthquake,syn_00411,California
+2025-07-24T00:59:32,-43.45,172.735,10.65,3.1,"151 km SW of Gisborne, New Zealand",earthquake,syn_00313,New Zealand
+2025-07-24T09:55:14,-34.038,178.737,34.83,3.4,"in the Gisborne, New Zealand",earthquake,syn_00338,New Zealand
+2025-07-24T10:09:21,-34.949,173.019,29.31,4.3,"204 km SW of Gisborne, New Zealand",earthquake,syn_00260,New Zealand
+2025-07-24T20:46:04,-39.972,174.287,38.85,3.1,"SE of Napier, New Zealand",earthquake,syn_00047,New Zealand
+2025-07-25T13:03:32,37.903,20.3,54.14,3.9,"SE of Kavala, Greece",earthquake,syn_00385,Greece
+2025-07-25T15:27:47,17.339,-90.073,55.89,4.8,"203 km SW of Colima, Mexico",earthquake,syn_00196,Mexico
+2025-07-25T16:04:39,27.348,-100.053,64.75,4.0,"near Oaxaca, Mexico",earthquake,syn_00777,Mexico
+2025-07-25T22:19:41,63.984,-155.762,50.52,4.5,"192 km SW of Kodiak, Alaska",earthquake,syn_00770,Alaska
+2025-07-26T04:03:47,-47.268,-75.33,23.41,4.0,"in the Concepción, Chile",earthquake,syn_00520,Chile
+2025-07-26T07:56:22,33.113,133.048,71.72,3.4,"233 km SW of Miyako, Japan",earthquake,syn_00575,Japan
+2025-07-26T19:23:07,2.899,133.812,11.35,3.8,"in the Jayapura, Indonesia",earthquake,syn_00344,Indonesia
+2025-07-27T04:55:17,50.768,-147.954,17.3,4.4,"near Kodiak, Alaska",earthquake,syn_00579,Alaska
+2025-07-27T05:22:45,-45.722,-70.02,14.59,2.9,"offshore Concepción, Chile",ice quake,syn_00691,Chile
+2025-07-27T05:26:50,35.55,-124.236,48.34,3.5,"164 km SW of Eureka, California",earthquake,syn_00254,California
+2025-07-27T07:22:10,34.545,-124.858,94.84,5.3,"near Bakersfield, California",earthquake,syn_00656,California
+2025-07-27T09:33:03,41.434,19.305,30.03,4.3,"NW of Heraklion, Greece",earthquake,syn_00400,Greece
+2025-07-27T14:40:58,1.115,107.519,2.88,2.6,"offshore Ambon, Indonesia",earthquake,syn_00156,Indonesia
+2025-07-27T23:51:06,37.416,129.978,65.6,2.3,"79 km NE of Sendai, Japan",earthquake,syn_00066,Japan
+2025-07-28T02:14:41,69.972,-149.718,51.75,3.4,"near Kodiak, Alaska",earthquake,syn_00530,Alaska
+2025-07-28T04:22:18,-45.802,-69.279,43.02,4.5,"in the Concepción, Chile",earthquake,syn_00023,Chile
+2025-07-28T10:22:30,35.024,131.368,22.87,4.7,"159 km NE of Miyako, Japan",earthquake,syn_00118,Japan
+2025-07-28T14:44:48,-42.219,174.22,2.84,4.7,"NW of Napier, New Zealand",earthquake,syn_00024,New Zealand
+2025-07-28T16:06:19,15.243,-102.298,35.0,6.0,"SE of Oaxaca, Mexico",earthquake,syn_00516,Mexico
+2025-07-28T20:02:48,35.57,-118.018,6.19,3.7,"NW of Los Angeles, California",earthquake,syn_00785,California
+2025-07-28T21:44:47,41.34,26.778,12.03,1.8,"114 km NE of Patras, Greece",earthquake,syn_00694,Greece
+2025-07-29T14:25:38,30.889,-89.993,43.58,3.6,"SE of Acapulco, Mexico",earthquake,syn_00347,Mexico
+2025-07-29T15:35:08,26.647,-109.64,14.56,3.3,"near Acapulco, Mexico",earthquake,syn_00360,Mexico
+2025-07-30T02:24:40,-1.217,103.703,38.23,4.1,"SE of Padang, Indonesia",earthquake,syn_00737,Indonesia
+2025-07-30T02:51:15,27.197,-86.142,22.86,4.5,"172 km SW of Oaxaca, Mexico",earthquake,syn_00848,Mexico
+2025-07-30T03:32:09,3.19,113.262,13.41,4.6,"NW of Banda Aceh, Indonesia",earthquake,syn_00636,Indonesia
+2025-07-30T07:24:46,34.874,27.54,67.07,5.2,"offshore Kavala, Greece",earthquake,syn_00398,Greece
+2025-07-30T07:25:59,-52.305,-73.456,1.4,3.8,"offshore Antofagasta, Chile",earthquake,syn_00362,Chile
+2025-07-30T13:05:24,-7.988,128.906,25.97,3.9,"in the Banda Aceh, Indonesia",earthquake,syn_00424,Indonesia
+2025-07-30T13:58:06,-43.608,-69.535,109.71,5.6,"55 km NE of Antofagasta, Chile",earthquake,syn_00431,Chile
+2025-07-30T14:44:50,5.991,99.821,60.26,2.0,"51 km NE of Padang, Indonesia",earthquake,syn_00420,Indonesia
+2025-07-30T16:42:28,40.591,44.961,15.42,5.3,"in the Hatay, Türkiye",earthquake,syn_00166,Türkiye
+2025-07-31T02:01:55,5.941,111.942,17.86,5.2,"offshore Jayapura, Indonesia",earthquake,syn_00303,Indonesia
+2025-07-31T04:37:47,-27.017,-69.362,49.15,5.3,"SE of Valparaíso, Chile",earthquake,syn_00222,Chile
+2025-07-31T18:21:35,2.126,95.662,3.09,4.0,"offshore Banda Aceh, Indonesia",earthquake,syn_00052,Indonesia
+2025-07-31T19:01:51,-24.043,-69.882,3.36,3.0,"168 km NE of Antofagasta, Chile",earthquake,syn_00610,Chile
+2025-07-31T22:59:28,60.723,-134.218,48.26,4.1,"in the Kodiak, Alaska",earthquake,syn_00145,Alaska
+2025-08-01T07:58:37,2.703,138.286,29.28,5.2,"offshore Jayapura, Indonesia",earthquake,syn_00783,Indonesia
+2025-08-01T16:11:45,-29.432,-68.757,49.12,6.3,"33 km SW of Antofagasta, Chile",earthquake,syn_00648,Chile
+2025-08-01T18:28:09,15.688,-99.108,5.26,4.0,"near Oaxaca, Mexico",earthquake,syn_00298,Mexico
+2025-08-01T21:44:25,40.163,134.302,22.1,4.8,"offshore Miyako, Japan",earthquake,syn_00428,Japan
+2025-08-02T00:00:36,44.95,138.442,43.96,4.2,"NW of Sendai, Japan",earthquake,syn_00083,Japan
+2025-08-02T02:42:11,36.146,29.121,22.21,4.7,"near Hatay, Türkiye",earthquake,syn_00114,Türkiye
+2025-08-02T02:52:23,32.251,134.519,40.11,6.1,"offshore Miyako, Japan",earthquake,syn_00279,Japan
+2025-08-02T06:15:00,32.111,132.434,6.11,3.8,"near Miyako, Japan",earthquake,syn_00335,Japan
+2025-08-02T06:26:11,41.035,145.972,16.41,4.4,"152 km SW of Kushiro, Japan",earthquake,syn_00310,Japan
+2025-08-02T11:26:58,35.05,19.325,76.09,4.9,"offshore Heraklion, Greece",earthquake,syn_00197,Greece
+2025-08-02T18:04:19,31.361,-110.683,47.23,2.6,"near Oaxaca, Mexico",earthquake,syn_00332,Mexico
+2025-08-02T22:49:56,-32.503,-74.341,0.75,4.1,"offshore Iquique, Chile",earthquake,syn_00649,Chile
+2025-08-02T23:10:53,64.012,-156.376,2.23,4.9,"near Kodiak, Alaska",earthquake,syn_00381,Alaska
+2025-08-03T00:41:42,0.081,133.118,45.9,5.5,"in the Ambon, Indonesia",earthquake,syn_00681,Indonesia
+2025-08-03T10:08:29,36.479,22.973,12.9,5.4,"SE of Patras, Greece",earthquake,syn_00134,Greece
+2025-08-03T13:32:11,17.688,-89.787,63.5,3.7,"SE of Oaxaca, Mexico",earthquake,syn_00329,Mexico
+2025-08-03T17:22:41,-5.381,111.361,25.07,3.3,"offshore Banda Aceh, Indonesia",earthquake,syn_00152,Indonesia
+2025-08-03T17:42:47,38.281,136.414,43.27,4.4,"85 km NE of Kushiro, Japan",earthquake,syn_00144,Japan
+2025-08-03T21:04:17,-44.12,166.73,5.65,4.4,"NW of Gisborne, New Zealand",earthquake,syn_00742,New Zealand
+2025-08-04T01:32:33,-1.822,97.155,1.94,5.1,"SE of Padang, Indonesia",earthquake,syn_00414,Indonesia
+2025-08-04T06:41:06,-41.92,168.063,8.96,3.4,"NW of Bluff, New Zealand",earthquake,syn_00527,New Zealand
+2025-08-04T09:11:41,34.887,131.172,17.52,4.7,"SE of Sendai, Japan",earthquake,syn_00653,Japan
+2025-08-04T09:41:59,41.779,41.176,10.39,4.7,"offshore Erzurum, Türkiye",earthquake,syn_00289,Türkiye
+2025-08-04T10:30:13,55.972,-164.986,43.13,3.0,"SE of Anchorage, Alaska",earthquake,syn_00462,Alaska
+2025-08-04T12:54:25,-1.253,105.67,20.6,5.5,"NW of Jayapura, Indonesia",earthquake,syn_00250,Indonesia
+2025-08-04T14:05:53,-40.694,170.337,6.08,4.0,"173 km SW of Wellington, New Zealand",earthquake,syn_00518,New Zealand
+2025-08-04T15:52:30,1.072,116.065,8.75,4.7,"near Banda Aceh, Indonesia",earthquake,syn_00602,Indonesia
+2025-08-04T19:16:49,27.85,-88.021,10.03,4.1,"near Oaxaca, Mexico",ice quake,syn_00762,Mexico
+2025-08-04T20:57:49,14.572,-99.99,67.39,2.3,"in the Oaxaca, Mexico",earthquake,syn_00094,Mexico
+2025-08-05T00:32:29,32.79,-122.365,47.48,5.0,"in the Eureka, California",earthquake,syn_00355,California
+2025-08-05T04:56:43,-18.629,-71.729,19.34,5.7,"in the Valparaíso, Chile",earthquake,syn_00787,Chile
+2025-08-05T06:48:25,58.301,-131.437,2.81,3.6,"219 km NE of Fairbanks, Alaska",earthquake,syn_00417,Alaska
+2025-08-05T08:40:12,18.064,-97.885,18.96,4.1,"in the Acapulco, Mexico",induced event,syn_00818,Mexico
+2025-08-05T09:58:40,38.391,143.084,11.76,5.1,"45 km SW of Miyako, Japan",earthquake,syn_00618,Japan
+2025-08-05T14:24:45,37.897,29.879,18.09,4.3,"SE of İzmir, Türkiye",earthquake,syn_00548,Türkiye
+2025-08-05T15:05:51,-35.908,174.756,4.43,5.8,"190 km SW of Napier, New Zealand",earthquake,syn_00745,New Zealand
+2025-08-05T19:27:56,34.091,-123.566,6.83,4.0,"NW of Los Angeles, California",earthquake,syn_00819,California
+2025-08-06T06:31:01,-2.466,125.179,24.6,4.5,"215 km NE of Ambon, Indonesia",earthquake,syn_00565,Indonesia
+2025-08-06T19:40:04,-50.732,-75.974,30.48,4.1,"near Concepción, Chile",earthquake,syn_00245,Chile
+2025-08-06T22:54:30,63.224,-141.777,34.98,4.9,"38 km SW of Anchorage, Alaska",earthquake,syn_00379,Alaska
+2025-08-07T04:39:02,27.69,-112.211,27.26,1.7,"17 km NE of Acapulco, Mexico",earthquake,syn_00576,Mexico
+2025-08-07T07:36:28,33.43,-116.623,28.89,5.8,"234 km NE of Los Angeles, California",earthquake,syn_00067,California
+2025-08-07T08:16:49,38.959,-116.274,70.98,5.0,"SE of Eureka, California",induced event,syn_00334,California
+2025-08-07T12:13:21,35.316,-119.494,3.83,4.3,"NW of Eureka, California",earthquake,syn_00732,California
+2025-08-07T14:23:33,-44.03,-74.909,31.54,3.8,"near Iquique, Chile",quarry blast,syn_00233,Chile
+2025-08-07T17:16:38,35.222,40.859,8.24,5.6,"near Erzurum, Türkiye",earthquake,syn_00601,Türkiye
+2025-08-07T19:10:32,-21.799,-68.76,4.6,4.3,"NW of Valparaíso, Chile",earthquake,syn_00374,Chile
+2025-08-08T09:15:50,39.441,40.645,0.1,4.2,"237 km NE of Malatya, Türkiye",earthquake,syn_00421,Türkiye
+2025-08-08T11:29:03,-0.036,105.243,11.01,3.0,"offshore Banda Aceh, Indonesia",earthquake,syn_00621,Indonesia
+2025-08-08T21:42:24,42.858,142.947,17.43,5.2,"216 km SW of Sendai, Japan",earthquake,syn_00619,Japan
+2025-08-08T21:52:20,44.181,129.973,9.14,5.1,"near Miyako, Japan",earthquake,syn_00842,Japan
+2025-08-09T11:24:21,32.886,-119.636,15.68,4.1,"SE of Bakersfield, California",earthquake,syn_00404,California
+2025-08-09T12:35:09,64.088,-135.98,40.51,3.9,"NW of Fairbanks, Alaska",earthquake,syn_00825,Alaska
+2025-08-09T18:19:39,-2.775,138.099,124.11,5.4,"in the Ambon, Indonesia",earthquake,syn_00695,Indonesia
+2025-08-09T18:37:15,-2.581,111.254,26.29,5.1,"SE of Banda Aceh, Indonesia",induced event,syn_00077,Indonesia
+2025-08-09T20:18:34,38.977,-123.019,62.22,3.5,"97 km NE of Los Angeles, California",induced event,syn_00092,California
+2025-08-09T21:08:51,36.79,31.739,39.5,3.2,"NW of Hatay, Türkiye",earthquake,syn_00247,Türkiye
+2025-08-10T12:04:34,35.06,143.068,2.12,3.5,"SE of Miyako, Japan",earthquake,syn_00756,Japan
+2025-08-10T19:17:38,-37.312,169.019,15.59,2.9,"near Gisborne, New Zealand",earthquake,syn_00727,New Zealand
+2025-08-11T02:06:07,68.426,-145.421,42.36,2.8,"offshore Fairbanks, Alaska",quarry blast,syn_00652,Alaska
+2025-08-11T06:00:00,22.122,-86.465,71.98,4.1,"in the Puerto Vallarta, Mexico",earthquake,syn_00330,Mexico
+2025-08-11T07:07:48,30.464,145.503,44.56,4.3,"near Sendai, Japan",earthquake,syn_00387,Japan
+2025-08-11T07:34:32,35.176,32.742,9.08,4.5,"offshore Erzurum, Türkiye",earthquake,syn_00710,Türkiye
+2025-08-11T19:19:47,-31.548,-68.932,5.48,4.4,"NW of Antofagasta, Chile",earthquake,syn_00221,Chile
+2025-08-12T00:27:34,-46.6,178.63,7.48,4.0,"offshore Napier, New Zealand",earthquake,syn_00399,New Zealand
+2025-08-12T10:57:28,-18.221,-73.046,43.99,4.8,"77 km NE of Concepción, Chile",earthquake,syn_00287,Chile
+2025-08-12T12:24:33,33.869,140.22,22.63,4.4,"133 km SW of Sendai, Japan",earthquake,syn_00028,Japan
+2025-08-12T16:15:20,39.858,27.066,56.75,5.4,"NW of Kalamata, Greece",earthquake,syn_00158,Greece
+2025-08-12T20:20:31,36.945,-123.661,26.61,3.9,"NW of Los Angeles, California",earthquake,syn_00715,California
+2025-08-13T04:48:22,37.825,26.68,17.95,5.5,"in the Kavala, Greece",earthquake,syn_00768,Greece
+2025-08-13T06:51:11,36.613,31.496,13.83,4.2,"222 km NE of Hatay, Türkiye",earthquake,syn_00827,Türkiye
+2025-08-13T08:34:55,67.778,-162.884,21.69,5.3,"in the Anchorage, Alaska",earthquake,syn_00447,Alaska
+2025-08-13T10:41:55,-35.265,176.884,11.49,4.1,"91 km SW of Gisborne, New Zealand",earthquake,syn_00654,New Zealand
+2025-08-13T12:20:47,-19.132,-66.557,60.57,4.9,"223 km NE of Iquique, Chile",earthquake,syn_00055,Chile
+2025-08-13T12:25:23,37.764,133.57,13.47,3.9,"115 km NE of Hachinohe, Japan",earthquake,syn_00464,Japan
+2025-08-13T23:22:45,32.677,-117.214,23.53,6.6,"in the San Jose, California",earthquake,syn_00325,California
+2025-08-14T02:13:51,40.184,-124.558,66.19,4.7,"SE of San Jose, California",earthquake,syn_00641,California
+2025-08-14T05:38:39,18.095,-111.848,12.6,4.6,"46 km NE of Puerto Vallarta, Mexico",earthquake,syn_00836,Mexico
+2025-08-14T08:22:17,34.197,19.221,44.14,4.1,"near Kalamata, Greece",earthquake,syn_00190,Greece
+2025-08-14T13:00:23,35.327,129.769,61.91,3.4,"near Hachinohe, Japan",earthquake,syn_00596,Japan
+2025-08-14T19:07:22,39.546,-122.265,58.46,4.4,"in the Los Angeles, California",earthquake,syn_00754,California
+2025-08-14T20:13:10,40.496,31.2,72.85,6.5,"SE of Kahramanmaraş, Türkiye",earthquake,syn_00731,Türkiye
+2025-08-14T21:38:12,31.567,138.807,118.23,3.3,"near Kushiro, Japan",earthquake,syn_00598,Japan
+2025-08-14T23:47:50,-25.007,-72.922,21.13,3.2,"84 km SW of Iquique, Chile",earthquake,syn_00504,Chile
