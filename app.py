@@ -8,26 +8,19 @@ from dash import Dash, dcc, html, Input, Output, State, dash_table
 import plotly.graph_objects as go
 import plotly.express as px
 
-# ---------- Data loading helpers ----------
-
 SNAPSHOT_PATH = os.path.join("data", "earthquakes_snapshot.csv")
 
 def load_snapshot():
     return pd.read_csv(SNAPSHOT_PATH, parse_dates=["time"])
 
 def try_load_usgs(days=30):
-    # Optional: live data fetch. Keeps snapshot as fallback.
-    # If offline or blocked, this will raise and we continue with snapshot.
     import pandas as pd
     import urllib.request
     url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv"
     tmp = pd.read_csv(url, parse_dates=["time"])
-    # Harmonize fields we need
     keep = ["time","latitude","longitude","depth","mag","place","type","id"]
     tmp = tmp[keep].copy()
-    # add simple "region" extraction from place string (last comma piece)
     tmp["region"] = tmp["place"].str.split(",").str[-1].str.strip().fillna("Unknown")
-    # Only recent subset if desired
     tmp = tmp.sort_values("time")
     return tmp
 
